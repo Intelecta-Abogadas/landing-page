@@ -30,8 +30,6 @@ jobs:
 
       - name: Build static export
         run: yarn build
-        env:
-          BASE_PATH: /landing-page
 
       - uses: actions/upload-pages-artifact@v3
         with:
