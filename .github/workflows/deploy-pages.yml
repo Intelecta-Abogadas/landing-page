@@ -19,21 +19,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-          cache: yarn
-          cache-dependency-path: yarn.lock
-
-      - name: Install
-        run: yarn install --frozen-lockfile
-
-      - name: Build static export
-        run: yarn build
-
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: out
+          path: sitio
 
   deploy:
     runs-on: ubuntu-latest
