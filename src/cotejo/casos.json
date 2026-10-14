@@ -1,0 +1,5463 @@
+{
+ "pares": [
+  {
+   "a": "Quimbaya",
+   "b": "Kimballa",
+   "literal": 0.625,
+   "castellano": 1.0,
+   "ingles": 0.8833333333333334,
+   "contencion": 0.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "Tolkara",
+   "b": "La Tolkara S.A.",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "Brújula",
+   "b": "Brújula Viajes del Sur",
+   "literal": 0.832072380952381,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "Monte Claro",
+   "b": "Monteclaro",
+   "literal": 0.9523809523809523,
+   "castellano": 0.0,
+   "ingles": 0.8412698412698413,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "Punto Sur",
+   "b": "Puntual Logística",
+   "literal": 0.5367897435897436,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.5367897435897436
+  },
+  {
+   "a": "Faro Austral",
+   "b": "Ceibo Rojo",
+   "literal": 0.2727272727272727,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2727272727272727
+  },
+  {
+   "a": "MJC SERVICIOS AGROPECUARIOS S.A.",
+   "b": "B BOB'S CAFÉ",
+   "literal": 0.32424500512820514,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.32424500512820514
+  },
+  {
+   "a": "2B WILD RIDE YOUR FREEDOM",
+   "b": "B BOB'S CAFÉ",
+   "literal": 0.26682546003016594,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.26682546003016594
+  },
+  {
+   "a": "B BARTOLOMÉ GRUPO INMOBILIARIO",
+   "b": "B BOB'S CAFÉ",
+   "literal": 0.33333333333333337,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.33333333333333337
+  },
+  {
+   "a": "2B WILD RIDE YOUR FREEDOM",
+   "b": "V.",
+   "literal": 0.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.0
+  },
+  {
+   "a": "ARKY STUDIO",
+   "b": "MORGAN STUDIO",
+   "literal": 0.24508000000000002,
+   "castellano": 0.0,
+   "ingles": 0.17700222222222223,
+   "contencion": 0.0,
+   "parecido": 0.24508000000000002
+  },
+  {
+   "a": "KIRA HOME · BAZAR & DECO",
+   "b": "SMART BAZAR",
+   "literal": 0.2222222222222222,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2222222222222222
+  },
+  {
+   "a": "KIRA HOME · BAZAR & DECO",
+   "b": "ALTESSA HOME",
+   "literal": 0.2580443636363636,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2580443636363636
+  },
+  {
+   "a": "LA DIETÉTICA NATURAL MARKET",
+   "b": "PEKE MARKET",
+   "literal": 0.36202538461538464,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.36202538461538464
+  },
+  {
+   "a": "FCA ASSET MANAGEMENT",
+   "b": "BIGTELLIGENT DATA MANAGEMENT AND DESIGN",
+   "literal": 0.19047619047619047,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.19047619047619047
+  },
+  {
+   "a": "BIO DIDACTIKA ENSEÑAMOS CIENCIA QUE INSPIRA",
+   "b": "SOLOCANIS EL ALIADO QUE TU PERRO NECESITA",
+   "literal": 0.3943661971830986,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3943661971830986
+  },
+  {
+   "a": "BIO DIDACTIKA ENSEÑAMOS CIENCIA QUE INSPIRA",
+   "b": "COFRE DIDÁCTICO",
+   "literal": 0.4527455477855478,
+   "castellano": 0.9333333333333332,
+   "ingles": 0.9333333333333332,
+   "contencion": 0.7777777777777779,
+   "parecido": 0.9333333333333332
+  },
+  {
+   "a": "CONECTAR CULTURA",
+   "b": "CONECTA FRANQUICIAS",
+   "literal": 0.5714285714285714,
+   "castellano": 0.9155555555555555,
+   "ingles": 0.8789333333333332,
+   "contencion": 0.9333333333333332,
+   "parecido": 0.9333333333333332
+  },
+  {
+   "a": "COLILUX",
+   "b": "DECOLUX",
+   "literal": 0.7142857142857143,
+   "castellano": 0.75,
+   "ingles": 0.65,
+   "contencion": 0.0,
+   "parecido": 0.75
+  },
+  {
+   "a": "cerveza",
+   "b": "servesa",
+   "literal": 0.7142857142857143,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 0.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "FLASH",
+   "b": "FLASH CORREO PRIVADO MAYORISTA",
+   "literal": 0.31397142857142857,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "MEP",
+   "b": "#MEP MUJERES EN PUBLICIDAD",
+   "literal": 0.27036,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "PURAFARMA DONDE LA SALUD EMPIEZA +",
+   "b": "PS CENTRO PROYECTAR SALUD",
+   "literal": 0.4174117647058824,
+   "castellano": 0.0,
+   "ingles": 0.31723294117647066,
+   "contencion": 0.8,
+   "parecido": 0.68
+  },
+  {
+   "a": "PJ",
+   "b": "PJ LIBRARY",
+   "literal": 0.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "PJ",
+   "b": "PJOTA LIBRARY",
+   "literal": 0.29580000000000006,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.29580000000000006
+  },
+  {
+   "a": "FUNKO",
+   "b": "CIA LOS FUNKOS SSA ARG",
+   "literal": 0.76112,
+   "castellano": 0.8883116883116884,
+   "ingles": 0.8364935064935065,
+   "contencion": 0.9090909090909091,
+   "parecido": 0.9090909090909091
+  },
+  {
+   "a": "AIRE PURO",
+   "b": "PURAIRE",
+   "literal": 0.5,
+   "castellano": 0.0,
+   "ingles": 0.45555555555555555,
+   "contencion": 0.9333333333333332,
+   "parecido": 0.9333333333333332
+  },
+  {
+   "a": "NOVA",
+   "b": "NOVA DRAGON",
+   "literal": 0.65646,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "KRAC",
+   "b": "COMARCA",
+   "literal": 0.4280841558441558,
+   "castellano": 0.0,
+   "ingles": 0.3959778441558441,
+   "contencion": 0.0,
+   "parecido": 0.4280841558441558
+  },
+  {
+   "a": "SYNCRO",
+   "b": "ASUNCION",
+   "literal": 0.5714285714285714,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.5714285714285714
+  },
+  {
+   "a": "LA ALEGRIA",
+   "b": "LA TRISTEZA",
+   "literal": 0.4,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.4
+  },
+  {
+   "a": "MONA",
+   "b": "SIMONA",
+   "literal": 0.84508,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.84508
+  },
+  {
+   "a": "RADO",
+   "b": "SAGRADO",
+   "literal": 0.8011654545454545,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.8011654545454545
+  },
+  {
+   "a": "CENTRO",
+   "b": "SYNCRO",
+   "literal": 0.5,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.5
+  },
+  {
+   "a": "I.N.S ELECTRICIDAD",
+   "b": "INS ELECTRIC",
+   "literal": 0.8571428571428572,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ONE TOUCH",
+   "b": "ONETOUCH",
+   "literal": 0.9411764705882353,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "THE KNIGHT",
+   "b": "NIGHT",
+   "literal": 0.9090909090909092,
+   "castellano": 0.888888888888889,
+   "ingles": 0.9090909090909092,
+   "contencion": 0.0,
+   "parecido": 0.9090909090909092
+  },
+  {
+   "a": "PHOENIX",
+   "b": "FENIX",
+   "literal": 0.6666666666666667,
+   "castellano": 0.0,
+   "ingles": 0.6666666666666667,
+   "contencion": 0.0,
+   "parecido": 0.6666666666666667
+  },
+  {
+   "a": "SHOWROOM",
+   "b": "CHOUROOM",
+   "literal": 0.75,
+   "castellano": 0.0,
+   "ingles": 0.75,
+   "contencion": 0.0,
+   "parecido": 0.75
+  },
+  {
+   "a": "WHISKY BAR",
+   "b": "GÜISQUI",
+   "literal": 0.23529411764705888,
+   "castellano": 0.0,
+   "ingles": 0.18300653594771243,
+   "contencion": 0.0,
+   "parecido": 0.23529411764705888
+  },
+  {
+   "a": "XANADU",
+   "b": "ZANADU",
+   "literal": 0.8333333333333335,
+   "castellano": 0.8205128205128205,
+   "ingles": 0.8333333333333335,
+   "contencion": 0.0,
+   "parecido": 0.8333333333333335
+  },
+  {
+   "a": "GNOMO",
+   "b": "NOMO",
+   "literal": 0.8888888888888888,
+   "castellano": 0.0,
+   "ingles": 0.8888888888888888,
+   "contencion": 0.0,
+   "parecido": 0.8888888888888888
+  },
+  {
+   "a": "SIGN",
+   "b": "SAIN",
+   "literal": 0.75,
+   "castellano": 0.0,
+   "ingles": 0.6375000000000001,
+   "contencion": 0.0,
+   "parecido": 0.75
+  },
+  {
+   "a": "HACHE",
+   "b": "ACHE",
+   "literal": 0.8888888888888888,
+   "castellano": 1.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "LLUVIA",
+   "b": "YUBIA",
+   "literal": 0.5454545454545454,
+   "castellano": 1.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "QUESERÍA",
+   "b": "KESERIA",
+   "literal": 0.8,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 0.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ÑANDÚ",
+   "b": "NIANDU",
+   "literal": 0.8333333333333335,
+   "castellano": 0.8428571428571431,
+   "ingles": 0.7796428571428573,
+   "contencion": 0.0,
+   "parecido": 0.8428571428571431
+  },
+  {
+   "a": "ACCIÓN",
+   "b": "AXION",
+   "literal": 0.7272727272727273,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 0.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "PSICO",
+   "b": "SICO",
+   "literal": 0.8888888888888888,
+   "castellano": 0.9333333333333332,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.9333333333333332
+  },
+  {
+   "a": "SCOTT",
+   "b": "ESCOT",
+   "literal": 0.8,
+   "castellano": 0.9333333333333332,
+   "ingles": 0.8555555555555554,
+   "contencion": 0.0,
+   "parecido": 0.9333333333333332
+  },
+  {
+   "a": "MBOPI",
+   "b": "NBOPI",
+   "literal": 0.8,
+   "castellano": 0.8800000000000001,
+   "ingles": 0.6844444444444444,
+   "contencion": 0.0,
+   "parecido": 0.8800000000000001
+  },
+  {
+   "a": "LAMB",
+   "b": "LAM",
+   "literal": 0.8571428571428572,
+   "castellano": 0.0,
+   "ingles": 0.8571428571428572,
+   "contencion": 0.8571428571428572,
+   "parecido": 0.8571428571428572
+  },
+  {
+   "a": "HIGH",
+   "b": "HI",
+   "literal": 0.76112,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.76112
+  },
+  {
+   "a": "ALIGN",
+   "b": "ALINE",
+   "literal": 0.8,
+   "castellano": 0.822857142857143,
+   "ingles": 0.7497142857142858,
+   "contencion": 0.8,
+   "parecido": 0.822857142857143
+  },
+  {
+   "a": "CONVERSACIONES INCÓMODAS",
+   "b": "INC CONVERSACIONES",
+   "literal": 0.8071771428571429,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "PROVEEDOR DE MATERIALES S.A.",
+   "b": "CONVERSACIONES INCÓMODAS PARA GENTE",
+   "literal": 0.38863905882352945,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.38863905882352945
+  },
+  {
+   "a": "BOB'S CAFÉ",
+   "b": "BOBS CAFE",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CLUB",
+   "b": "CLUB DELTA AXIS",
+   "literal": 0.18386285714285716,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.18386285714285716
+  },
+  {
+   "a": "GAMMA",
+   "b": "BINO RIO",
+   "literal": 0.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.0
+  },
+  {
+   "a": "QUINTA",
+   "b": "KEIBO PRO BINO KAPPA",
+   "literal": 0.2926215384615385,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2926215384615385
+  },
+  {
+   "a": "PAMPA PET",
+   "b": "JAKARANDA",
+   "literal": 0.33408,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.33408
+  },
+  {
+   "a": "GRANJA OSCURO",
+   "b": "VIDRIO ARENA",
+   "literal": 0.38256,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.38256
+  },
+  {
+   "a": "OSCURO",
+   "b": "SIGMA HUERTA FARO ROJA",
+   "literal": 0.3270266666666667,
+   "castellano": 0.0,
+   "ingles": 0.23618592592592594,
+   "contencion": 0.0,
+   "parecido": 0.3270266666666667
+  },
+  {
+   "a": "YERBA AIRE",
+   "b": "YERBA ISLA",
+   "literal": 0.7,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "KAPPA",
+   "b": "CLARO DELTA",
+   "literal": 0.26932,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.26932
+  },
+  {
+   "a": "TECH DELTA",
+   "b": "TEKH BERDE",
+   "literal": 0.6000000000000001,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.6000000000000001
+  },
+  {
+   "a": "LIFE PAMPA CLARO",
+   "b": "LIFE",
+   "literal": 0.5104000000000001,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "ZAFIRO",
+   "b": "QUINTA HUERTA LAGO MADERA",
+   "literal": 0.22102428152492676,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.22102428152492676
+  },
+  {
+   "a": "ZAFIRO VINO VIDRIO",
+   "b": "SUR QUINTA OMBU JACARANDA",
+   "literal": 0.32558139534883723,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.32558139534883723
+  },
+  {
+   "a": "OSCURO KIWI",
+   "b": "JACARANDA",
+   "literal": 0.19999999999999996,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.19999999999999996
+  },
+  {
+   "a": "XILO HOME OMBU",
+   "b": "XILO LAGO",
+   "literal": 0.6666666666666667,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "GAMMA AXIS",
+   "b": "PUERTO KOBALTO",
+   "literal": 0.16666666666666663,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.16666666666666663
+  },
+  {
+   "a": "ESTANCIA CAFE",
+   "b": "ESTANCIA VECTOR",
+   "literal": 0.7186666666666667,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "FLASH BRISA",
+   "b": "OMBU CASA",
+   "literal": 0.30000000000000004,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.30000000000000004
+  },
+  {
+   "a": "CEIBO DELTA XILO",
+   "b": "GRANJA COBALTO",
+   "literal": 0.33333333333333337,
+   "castellano": 0.0,
+   "ingles": 0.24074074074074076,
+   "contencion": 0.0,
+   "parecido": 0.33333333333333337
+  },
+  {
+   "a": "ROJA VALLE",
+   "b": "ROJA CHACRA LAB",
+   "literal": 0.5714285714285714,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "VIDRIO",
+   "b": "PRO SOL",
+   "literal": 0.3076923076923077,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3076923076923077
+  },
+  {
+   "a": "OSCURO",
+   "b": "AXIS",
+   "literal": 0.24508000000000002,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24508000000000002
+  },
+  {
+   "a": "BAHIA",
+   "b": "MADERA OMEGA KIWI",
+   "literal": 0.2309963636363636,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2309963636363636
+  },
+  {
+   "a": "TANGO MAR PIEDRA",
+   "b": "TANGO OMEGA",
+   "literal": 0.6666666666666667,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CEIBO TANGO",
+   "b": "GAMMA",
+   "literal": 0.17606,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.17606
+  },
+  {
+   "a": "QUIMERA",
+   "b": "QUIMERA ORBITA",
+   "literal": 0.76112,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "HOME ZAFIRO DIGITAL",
+   "b": "HOME VINO QUIMERA COBALTO",
+   "literal": 0.3529411764705882,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3529411764705882
+  },
+  {
+   "a": "CLARO MATE LUNA",
+   "b": "CLARO CAFE AZUL DELTA",
+   "literal": 0.6111111111111112,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "SUR",
+   "b": "AGUA VECTOR ORBITA LUX",
+   "literal": 0.17230500000000004,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.17230500000000004
+  },
+  {
+   "a": "PET SIERRA LAGO",
+   "b": "LUX SUR",
+   "literal": 0.29880419047619045,
+   "castellano": 0.0,
+   "ingles": 0.27224381798941794,
+   "contencion": 0.0,
+   "parecido": 0.29880419047619045
+  },
+  {
+   "a": "SUR ZAFIRO",
+   "b": "SUR",
+   "literal": 0.585243076923077,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "OSCURO FUEGO",
+   "b": "MARKET MAX",
+   "literal": 0.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.0
+  },
+  {
+   "a": "AXIS PLATA",
+   "b": "AXIS",
+   "literal": 0.68932,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CLUB",
+   "b": "KIWI MONTE DIGITAL MARKET",
+   "literal": 0.13794618181818186,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.13794618181818186
+  },
+  {
+   "a": "VECTOR",
+   "b": "GRANJA DELTA",
+   "literal": 0.2779946666666666,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2779946666666666
+  },
+  {
+   "a": "ZETA",
+   "b": "DELTA",
+   "literal": 0.6666666666666667,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.6666666666666667
+  },
+  {
+   "a": "MARKET ZAFIRO",
+   "b": "ROJA RIO STUDIO ZETA",
+   "literal": 0.36806,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.36806
+  },
+  {
+   "a": "CAFE VERDE",
+   "b": "CAFE RIO LIFE",
+   "literal": 0.6086956521739131,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "KAPPA QUINTA VALLE",
+   "b": "KAPPA KIWI",
+   "literal": 0.650236,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ESTANCIA TANGO BODEGA",
+   "b": "VIDRIO",
+   "literal": 0.17379765079365078,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.17379765079365078
+  },
+  {
+   "a": "SIGMA VECTOR",
+   "b": "BRISA ORBITA PRO",
+   "literal": 0.3571428571428571,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3571428571428571
+  },
+  {
+   "a": "FLASH MARKET",
+   "b": "FLASH HIERRO AIRE MAR",
+   "literal": 0.4889292307692308,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "QUINTA TANGO",
+   "b": "QUINTA",
+   "literal": 0.76112,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "XILO",
+   "b": "ZETA HIERRO JACARANDA LAB",
+   "literal": 0.17322500000000002,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.17322500000000002
+  },
+  {
+   "a": "CAMPO",
+   "b": "CAMPO SUR BAHIA",
+   "literal": 0.62512,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "LUX ZAFIRO CIELO",
+   "b": "ANDES",
+   "literal": 0.20063999999999999,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.20063999999999999
+  },
+  {
+   "a": "LUX HIERRO",
+   "b": "VECTOR ZAFIRO KIWI",
+   "literal": 0.33180123076923074,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.33180123076923074
+  },
+  {
+   "a": "OMBU",
+   "b": "OMBU AGUA ISLA CHACRA",
+   "literal": 0.3813639999999999,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "DELTA OMBU",
+   "b": "DELTA BALLE KAMPO PRO",
+   "literal": 0.6111928387096774,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ROJA",
+   "b": "JACARANDA ISLA PRO",
+   "literal": 0.2549163636363636,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2549163636363636
+  },
+  {
+   "a": "LAGO TANGO PURO",
+   "b": "VECTOR",
+   "literal": 0.2947541818181818,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2947541818181818
+  },
+  {
+   "a": "GRANJA YERBA",
+   "b": "GRANJA FUEGO OMBU",
+   "literal": 0.6264863601532568,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "FLASH ZAFIRO",
+   "b": "PURO LAB AIRE",
+   "literal": 0.38095238095238093,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.38095238095238093
+  },
+  {
+   "a": "VIDRIO ORBITA",
+   "b": "BIDRIO",
+   "literal": 0.6240551515151516,
+   "castellano": 1.0,
+   "ingles": 0.7777777777777777,
+   "contencion": 0.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "LAGO PIXEL RIO",
+   "b": "ESTANKIA FUEGO",
+   "literal": 0.2857142857142857,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2857142857142857
+  },
+  {
+   "a": "VERDE",
+   "b": "MADERA ROJA PRO",
+   "literal": 0.26256,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.26256
+  },
+  {
+   "a": "SOL PRO STUDIO",
+   "b": "SMART",
+   "literal": 0.33333333333333337,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.33333333333333337
+  },
+  {
+   "a": "BRISA MONTE VINO",
+   "b": "BRISA PUERTO",
+   "literal": 0.5714285714285714,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "BODEGA VALLE",
+   "b": "PIXEL VINO OMEGA",
+   "literal": 0.3415714285714286,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3415714285714286
+  },
+  {
+   "a": "BAHIA",
+   "b": "SIERRA",
+   "literal": 0.36363636363636365,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.36363636363636365
+  },
+  {
+   "a": "NEXO PAMPA",
+   "b": "NEXO",
+   "literal": 0.68932,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "TIERRA PET",
+   "b": "XILO",
+   "literal": 0.24508000000000002,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24508000000000002
+  },
+  {
+   "a": "STUDIO",
+   "b": "STUDIO LAGO",
+   "literal": 0.2721279999999999,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2721279999999999
+  },
+  {
+   "a": "DIGITAL SIGMA",
+   "b": "DIGITAL NEXO QUINTA BAHIA",
+   "literal": 0.6616932307692307,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "CEIBO NEXO",
+   "b": "CEIBO BRISA",
+   "literal": 0.5999047619047618,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "GAMMA CAMPO AZUL",
+   "b": "NORTE",
+   "literal": 0.120192,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.120192
+  },
+  {
+   "a": "SOL",
+   "b": "LAGO ISLA SUR",
+   "literal": 0.3165466666666667,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3165466666666667
+  },
+  {
+   "a": "BRISA HUERTA",
+   "b": "BRISA SUR AXIS",
+   "literal": 0.6923076923076923,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "PLATA LIFE",
+   "b": "PLATA",
+   "literal": 0.76112,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "VERDE PLATA",
+   "b": "SOL GAMMA XILO ZETA",
+   "literal": 0.31784415584415593,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.31784415584415593
+  },
+  {
+   "a": "LAGO TIERRA",
+   "b": "LAGO NEXO KLUB GAMMA",
+   "literal": 0.6216515659824047,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "NUBE CEIBO",
+   "b": "NUBE LAGO MONTE",
+   "literal": 0.6490499999999999,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "STUDIO",
+   "b": "STUDIO STUDIO OSCURO CAFE",
+   "literal": 0.40059373262032083,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.40059373262032083
+  },
+  {
+   "a": "ZAFIRO",
+   "b": "QUINTA",
+   "literal": 0.16666666666666663,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.16666666666666663
+  },
+  {
+   "a": "MAX PRO CIELO",
+   "b": "BAHIA",
+   "literal": 0.23443047619047616,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.23443047619047616
+  },
+  {
+   "a": "CAMPO GRANJA ORBITA",
+   "b": "VERDE FUEGO PIEDRA NEXO",
+   "literal": 0.2857142857142857,
+   "castellano": 0.0,
+   "ingles": 0.20634920634920634,
+   "contencion": 0.0,
+   "parecido": 0.2857142857142857
+  },
+  {
+   "a": "CHACRA CAMPO",
+   "b": "CHACRA MATE LIFE",
+   "literal": 0.5999047619047618,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "NORTE VIDRIO",
+   "b": "ROJA NUBE LIFE AXIS",
+   "literal": 0.36005298003072195,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.36005298003072195
+  },
+  {
+   "a": "RIO PLATA ESTANCIA",
+   "b": "CIELO CAFE STUDIO",
+   "literal": 0.39897920000000003,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.39897920000000003
+  },
+  {
+   "a": "NUBE HOME",
+   "b": "PURO KAPPA NEXO BODEGA",
+   "literal": 0.24892153846153844,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24892153846153844
+  },
+  {
+   "a": "HIERRO CIELO",
+   "b": "STUDIO NUBE",
+   "literal": 0.1663342857142857,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.1663342857142857
+  },
+  {
+   "a": "CAFE PIEDRA",
+   "b": "KAFE",
+   "literal": 0.49234500000000003,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.49234500000000003
+  },
+  {
+   "a": "NUBE TANGO",
+   "b": "MADERA",
+   "literal": 0.27177333333333337,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.27177333333333337
+  },
+  {
+   "a": "STUDIO ARENA",
+   "b": "CLARO TIERRA TECH",
+   "literal": 0.39811844155844156,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.39811844155844156
+  },
+  {
+   "a": "CHACRA ZAFIRO SIGMA",
+   "b": "CHACRA",
+   "literal": 0.604936,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "NUBE PLATA FLASH",
+   "b": "PURO ESTANCIA",
+   "literal": 0.3448275862068966,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3448275862068966
+  },
+  {
+   "a": "FARO ANDES PLATA",
+   "b": "FARO HUERTA ORBITA SUR",
+   "literal": 0.4736842105263158,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ZETA BRISA VECTOR",
+   "b": "TIERRA CLUB ANDES HUERTA",
+   "literal": 0.38888888888888884,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.38888888888888884
+  },
+  {
+   "a": "MAR",
+   "b": "MAR GRANJA",
+   "literal": 0.585243076923077,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "SUR OSCURO VIDRIO",
+   "b": "PUERTO",
+   "literal": 0.3363532015810277,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3363532015810277
+  },
+  {
+   "a": "MARKET LAGO COBALTO",
+   "b": "HIERRO PRO NUBE CAMPO",
+   "literal": 0.3791927272727273,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3791927272727273
+  },
+  {
+   "a": "NUBE CIELO",
+   "b": "ANDES NUBE QUINTA OMEGA",
+   "literal": 0.5867241818181819,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "COBALTO ANDES PET",
+   "b": "AIRE TEKH",
+   "literal": 0.30588444444444446,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.30588444444444446
+  },
+  {
+   "a": "QUIMERA TIERRA MAX",
+   "b": "QUIMERA SOL MARKET BAHIA",
+   "literal": 0.5832571428571428,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "XILO",
+   "b": "ESTANCIA OMBU",
+   "literal": 0.29751588235294124,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.29751588235294124
+  },
+  {
+   "a": "FLASH",
+   "b": "PAMPA",
+   "literal": 0.19999999999999996,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.19999999999999996
+  },
+  {
+   "a": "NEXO",
+   "b": "NEXO",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ZAFIRO VECTOR",
+   "b": "MAX AIRE QUINTA MADERA",
+   "literal": 0.3442849704142012,
+   "castellano": 0.0,
+   "ingles": 0.24865025641025643,
+   "contencion": 0.0,
+   "parecido": 0.3442849704142012
+  },
+  {
+   "a": "CIELO COBALTO",
+   "b": "KIELO SIGMA LAB",
+   "literal": 0.5,
+   "castellano": 0.0,
+   "ingles": 0.42500000000000004,
+   "contencion": 0.0,
+   "parecido": 0.5
+  },
+  {
+   "a": "PLATA CIELO TANGO",
+   "b": "PLATA BODEGA",
+   "literal": 0.5549789722785666,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "PAMPA VALLE HOME",
+   "b": "MARKET",
+   "literal": 0.3559068235294118,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3559068235294118
+  },
+  {
+   "a": "CIELO OMEGA",
+   "b": "ZAFIRO",
+   "literal": 0.2739373975044564,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2739373975044564
+  },
+  {
+   "a": "GRANJA",
+   "b": "VERDE",
+   "literal": 0.18181818181818177,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.18181818181818177
+  },
+  {
+   "a": "CEIBO MARKET PIXEL",
+   "b": "LIFE MADERA AIRE RIO",
+   "literal": 0.29344561173020534,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.29344561173020534
+  },
+  {
+   "a": "VECTOR OSCURO NOVA",
+   "b": "LAB VERDE SUR",
+   "literal": 0.5393582222222223,
+   "castellano": 0.0,
+   "ingles": 0.4045186666666667,
+   "contencion": 0.0,
+   "parecido": 0.5393582222222223
+  },
+  {
+   "a": "AGUA DELTA PIXEL",
+   "b": "AGUA ZAFIRO",
+   "literal": 0.5185185185185186,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "BODEGA",
+   "b": "BODEGA VIDRIO ESTANCIA VERDE",
+   "literal": 0.44017882352941173,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "NUBE",
+   "b": "NUBE",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CHACRA",
+   "b": "XILO JAKARANDA SUR GAMMA",
+   "literal": 0.2552,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2552
+  },
+  {
+   "a": "DELTA LUNA AGUA",
+   "b": "HIERRO",
+   "literal": 0.14179666666666668,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.14179666666666668
+  },
+  {
+   "a": "HUERTA VECTOR",
+   "b": "HUERTA NORTE",
+   "literal": 0.72,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CHACRA",
+   "b": "CHACRA JACARANDA",
+   "literal": 0.667229090909091,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "OMBU HUERTA",
+   "b": "BIDRIO KOBALTO GRANJA VALLE",
+   "literal": 0.31612892561983474,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.31612892561983474
+  },
+  {
+   "a": "BAHIA NOVA",
+   "b": "ROJA ISLA ZAFIRO TIERRA",
+   "literal": 0.3962127272727273,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3962127272727273
+  },
+  {
+   "a": "ORBITA",
+   "b": "CLUB VALLE QUINTA",
+   "literal": 0.41699200000000003,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.41699200000000003
+  },
+  {
+   "a": "SOL",
+   "b": "HUERTA NORTE",
+   "literal": 0.17013333333333333,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.17013333333333333
+  },
+  {
+   "a": "OMBU AIRE HIERRO",
+   "b": "AIRE BIDRIO HOME",
+   "literal": 0.5925925925925926,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "YERBA ANDES",
+   "b": "YERBA HOME VIDRIO",
+   "literal": 0.6086956521739131,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "CAFE VERDE",
+   "b": "KAFE KAPPA TANGO PURO",
+   "literal": 0.3848557419354839,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3848557419354839
+  },
+  {
+   "a": "LAGO VINO PIXEL",
+   "b": "LAGO",
+   "literal": 0.53782,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "MATE QUIMERA OSCURO",
+   "b": "TANGO VERDE ARENA",
+   "literal": 0.34994444444444445,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.34994444444444445
+  },
+  {
+   "a": "XILO",
+   "b": "XILO HIERRO",
+   "literal": 0.65646,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "TECH CLARO ANDES",
+   "b": "AXIS PUERTO",
+   "literal": 0.2812013468013468,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2812013468013468
+  },
+  {
+   "a": "ROJA BRISA",
+   "b": "QUINTA GAMMA YERBA TIERRA",
+   "literal": 0.35363,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.35363
+  },
+  {
+   "a": "CHACRA TIERRA PIXEL",
+   "b": "ORBITA NEXO PLATA NUBE",
+   "literal": 0.3414634146341463,
+   "castellano": 0.0,
+   "ingles": 0.24661246612466123,
+   "contencion": 0.0,
+   "parecido": 0.3414634146341463
+  },
+  {
+   "a": "CEIBO PAMPA JACARANDA",
+   "b": "CASA",
+   "literal": 0.286023,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.286023
+  },
+  {
+   "a": "ZAFIRO SIGMA VIDRIO",
+   "b": "BAHIA AZUL LUNA ANDES",
+   "literal": 0.30000000000000004,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.30000000000000004
+  },
+  {
+   "a": "LAB COBALTO",
+   "b": "LUX SOL",
+   "literal": 0.2857142857142857,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2857142857142857
+  },
+  {
+   "a": "CASA KIWI",
+   "b": "HOME BEKTOR NORTE",
+   "literal": 0.09523809523809523,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.09523809523809523
+  },
+  {
+   "a": "LIFE LUX PURO",
+   "b": "LIFE",
+   "literal": 0.5950317647058823,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "LIFE MAX",
+   "b": "LIFE",
+   "literal": 0.76112,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "AXIS DIGITAL HUERTA",
+   "b": "AXIS NUBE ORBITA",
+   "literal": 0.5714285714285714,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "NORTE",
+   "b": "NORTE KHACRA LAGO",
+   "literal": 0.5774909090909092,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "GRANJA",
+   "b": "SOL MATE",
+   "literal": 0.1428571428571429,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.1428571428571429
+  },
+  {
+   "a": "VERDE",
+   "b": "DIGITAL CLARO",
+   "literal": 0.1918298666666667,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.1918298666666667
+  },
+  {
+   "a": "HOME FLASH OSCURO",
+   "b": "FLASH MATE",
+   "literal": 0.5858787878787879,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "QUIMERA",
+   "b": "SOL KAFE",
+   "literal": 0.1333333333333333,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.1333333333333333
+  },
+  {
+   "a": "AXIS",
+   "b": "AXIS KAPPA MADERA BINO",
+   "literal": 0.3567353846153847,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "SIERRA",
+   "b": "AXIS",
+   "literal": 0.2721279999999999,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2721279999999999
+  },
+  {
+   "a": "ANDES",
+   "b": "ANDES",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "MADERA BODEGA ISLA",
+   "b": "NEXO VINO NORTE STUDIO",
+   "literal": 0.24242424242424243,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24242424242424243
+  },
+  {
+   "a": "VINO VIDRIO",
+   "b": "LAB NEXO BAHIA",
+   "literal": 0.38095238095238093,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.38095238095238093
+  },
+  {
+   "a": "MADERA DIGITAL",
+   "b": "AXIS",
+   "literal": 0.2829933333333333,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2829933333333333
+  },
+  {
+   "a": "JACARANDA CASA",
+   "b": "SIERRA ESTANCIA",
+   "literal": 0.3670344827586207,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3670344827586207
+  },
+  {
+   "a": "NEXO",
+   "b": "ZETA",
+   "literal": 0.25,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.25
+  },
+  {
+   "a": "QUIMERA COBALTO PRO",
+   "b": "MARKET",
+   "literal": 0.2703416,
+   "castellano": 0.0,
+   "ingles": 0.1952467111111111,
+   "contencion": 0.0,
+   "parecido": 0.2703416
+  },
+  {
+   "a": "ISLA",
+   "b": "PUERTO LIFE KAPPA",
+   "literal": 0.22400799999999998,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.22400799999999998
+  },
+  {
+   "a": "PLATA VERDE STUDIO",
+   "b": "OMBU MAX CASA",
+   "literal": 0.19924999999999998,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.19924999999999998
+  },
+  {
+   "a": "TANGO VALLE CIELO",
+   "b": "KLUB PIXEL MATE",
+   "literal": 0.3125,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3125
+  },
+  {
+   "a": "COBALTO ROJA PRO",
+   "b": "JAKARANDA ZAFIRO SMART ROJA",
+   "literal": 0.5814573430232558,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "NEXO OSCURO PET",
+   "b": "NEXO FARO STUDIO HUERTA",
+   "literal": 0.5925925925925926,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "TECH MADERA HUERTA",
+   "b": "AGUA HOME SUR",
+   "literal": 0.40957923076923075,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.40957923076923075
+  },
+  {
+   "a": "FUEGO QUIMERA",
+   "b": "LIFE SOL",
+   "literal": 0.34267846153846154,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.34267846153846154
+  },
+  {
+   "a": "ORBITA CEIBO DIGITAL",
+   "b": "ORBITA SIGMA TANGO",
+   "literal": 0.5789473684210527,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "PIXEL BODEGA",
+   "b": "PIXEL LAGO ESTANCIA SUR",
+   "literal": 0.6548189999999999,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "SOL KIWI CAMPO",
+   "b": "SOL",
+   "literal": 0.44017882352941173,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "MONTE",
+   "b": "MAX MAR FARO",
+   "literal": 0.25910588235294124,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.25910588235294124
+  },
+  {
+   "a": "SMART KAPPA LIFE",
+   "b": "SMART CEIBO AXIS",
+   "literal": 0.5158125,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "VIDRIO",
+   "b": "VIDRIO ANDES NORTE",
+   "literal": 0.62512,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CIELO CEIBO DIGITAL",
+   "b": "PURO",
+   "literal": 0.10791152173913049,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.10791152173913049
+  },
+  {
+   "a": "LAB ARENA COBALTO",
+   "b": "HIERRO ANDES COBALTO VIDRIO",
+   "literal": 0.6411916923076924,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CLARO",
+   "b": "LIFE BAHIA",
+   "literal": 0.2801600000000001,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2801600000000001
+  },
+  {
+   "a": "NORTE ZAFIRO PET",
+   "b": "NORTE GAMMA",
+   "literal": 0.6086956521739131,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "MADERA",
+   "b": "MADERA",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "LIFE LUNA CIELO",
+   "b": "LUNA BAHIA OMEGA",
+   "literal": 0.46941935483870967,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "FARO",
+   "b": "BALLE XILO ARENA",
+   "literal": 0.28169599999999995,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.28169599999999995
+  },
+  {
+   "a": "STUDIO CHACRA",
+   "b": "NUBE MAX PIXEL SIERRA",
+   "literal": 0.2829933333333333,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2829933333333333
+  },
+  {
+   "a": "VALLE MATE",
+   "b": "BRISA LUNA",
+   "literal": 0.30000000000000004,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.30000000000000004
+  },
+  {
+   "a": "AGUA LAB DELTA",
+   "b": "AGUA TANGO",
+   "literal": 0.7,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "LAB NUBE SUR",
+   "b": "STUDIO AGUA ZAFIRO",
+   "literal": 0.3157894736842105,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3157894736842105
+  },
+  {
+   "a": "CAMPO PUERTO NOVA",
+   "b": "CAMPO",
+   "literal": 0.5774909090909092,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "AGUA CAMPO",
+   "b": "XILO HOME ESTANCIA NUBE",
+   "literal": 0.24421199999999998,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24421199999999998
+  },
+  {
+   "a": "SIERRA CIELO LAGO",
+   "b": "MATE BODEGA",
+   "literal": 0.3042750413223141,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3042750413223141
+  },
+  {
+   "a": "ESTANCIA KAPPA",
+   "b": "DIGITAL",
+   "literal": 0.24585142857142858,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24585142857142858
+  },
+  {
+   "a": "ARENA",
+   "b": "ARENA JACARANDA",
+   "literal": 0.62512,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "NEXO YERBA DIGITAL",
+   "b": "LIFE",
+   "literal": 0.14974518181818183,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.14974518181818183
+  },
+  {
+   "a": "CIELO HOME VERDE",
+   "b": "CIELO",
+   "literal": 0.73126,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "NEXO QUINTA",
+   "b": "NEXO LAGO",
+   "literal": 0.6000000000000001,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "YERBA",
+   "b": "AGUA KEIBO",
+   "literal": 0.3206400000000001,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3206400000000001
+  },
+  {
+   "a": "PIEDRA",
+   "b": "HUERTA CLARO",
+   "literal": 0.40606240000000005,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.40606240000000005
+  },
+  {
+   "a": "CAMPO TECH",
+   "b": "CAMPO LAGO KIWI",
+   "literal": 0.6490499999999999,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "FUEGO",
+   "b": "NOVA",
+   "literal": 0.2222222222222222,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2222222222222222
+  },
+  {
+   "a": "SMART ZAFIRO",
+   "b": "SMART MATE CAMPO",
+   "literal": 0.5714285714285714,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "STUDIO YERBA LAB",
+   "b": "YERBA BRISA MONTE ZAFIRO",
+   "literal": 0.4265489655172414,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "LAGO",
+   "b": "LAGO",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "BAHIA LUNA OMBU",
+   "b": "BAHIA",
+   "literal": 0.62512,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "TECH",
+   "b": "HOME",
+   "literal": 0.25,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.25
+  },
+  {
+   "a": "COBALTO AZUL",
+   "b": "AIRE",
+   "literal": 0.1928776,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.1928776
+  },
+  {
+   "a": "SOL BAHIA",
+   "b": "ZETA RIO CIELO CLUB",
+   "literal": 0.29502289855072467,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.29502289855072467
+  },
+  {
+   "a": "QUINTA KAPPA SOL",
+   "b": "LAGO BODEGA",
+   "literal": 0.24918410774410776,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24918410774410776
+  },
+  {
+   "a": "SIGMA VINO DELTA",
+   "b": "LAGO CIELO",
+   "literal": 0.4134892307692308,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.4134892307692308
+  },
+  {
+   "a": "CLUB",
+   "b": "MONTE HIERRO ROJA KOBALTO",
+   "literal": 0.07762167487684732,
+   "castellano": 0.0,
+   "ingles": 0.06403788177339903,
+   "contencion": 0.0,
+   "parecido": 0.07762167487684732
+  },
+  {
+   "a": "NORTE",
+   "b": "LUX",
+   "literal": 0.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.0
+  },
+  {
+   "a": "VERDE",
+   "b": "VERDE RIO",
+   "literal": 0.7928800000000001,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "COBALTO JACARANDA",
+   "b": "LAB GRANJA",
+   "literal": 0.44847093544137023,
+   "castellano": 0.0,
+   "ingles": 0.3513022327624067,
+   "contencion": 0.0,
+   "parecido": 0.44847093544137023
+  },
+  {
+   "a": "FUEGO",
+   "b": "VERDE LIFE",
+   "literal": 0.3669028571428572,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3669028571428572
+  },
+  {
+   "a": "YERBA HOME VALLE",
+   "b": "ZETA OSCURO",
+   "literal": 0.2727272727272727,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2727272727272727
+  },
+  {
+   "a": "KAPPA ANDES LUNA",
+   "b": "KAPPA BEKTOR GRANJA",
+   "literal": 0.5714285714285714,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "KAPPA PRO",
+   "b": "MAR PURO LIFE HUERTA",
+   "literal": 0.4176811877394636,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.4176811877394636
+  },
+  {
+   "a": "STUDIO LAGO",
+   "b": "STUDIO ESTANCIA",
+   "literal": 0.24492799999999998,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24492799999999998
+  },
+  {
+   "a": "CASA LAB ROJA",
+   "b": "CASA CAFE",
+   "literal": 0.6666666666666667,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "CHACRA",
+   "b": "HIERRO XILO LUX YERBA",
+   "literal": 0.26965333333333336,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.26965333333333336
+  },
+  {
+   "a": "BRISA STUDIO PAMPA",
+   "b": "BRISA BAHIA",
+   "literal": 0.7272727272727273,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "HOME",
+   "b": "HOME QUINTA",
+   "literal": 0.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.0
+  },
+  {
+   "a": "RIO CAFE ORBITA",
+   "b": "RIO OSCURO CAFE PAMPA",
+   "literal": 0.6040000000000001,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "VERDE QUIMERA",
+   "b": "VERDE PURO",
+   "literal": 0.6956521739130435,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "NORTE",
+   "b": "NORTE CAFE OMBU HOME",
+   "literal": 0.62512,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "BODEGA GAMMA",
+   "b": "BODEGA RIO VECTOR HUERTA",
+   "literal": 0.6106373333333333,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "SIGMA LAGO MATE",
+   "b": "MAR CIELO OMEGA CAFE",
+   "literal": 0.5142857142857142,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.5142857142857142
+  },
+  {
+   "a": "MATE PLATA DELTA",
+   "b": "SOL ANDES",
+   "literal": 0.3657137777777777,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3657137777777777
+  },
+  {
+   "a": "SOL STUDIO",
+   "b": "SOL ARENA",
+   "literal": 0.62512,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "PRO RIO",
+   "b": "STUDIO MATE",
+   "literal": 0.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.0
+  },
+  {
+   "a": "CAMPO PIEDRA OMEGA",
+   "b": "RIO KHACRA BECTOR PET",
+   "literal": 0.34285714285714286,
+   "castellano": 0.0,
+   "ingles": 0.24761904761904763,
+   "contencion": 0.0,
+   "parecido": 0.34285714285714286
+  },
+  {
+   "a": "CLUB HUERTA TECH",
+   "b": "PLATA SIERRA DIGITAL",
+   "literal": 0.35904708077845915,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.35904708077845915
+  },
+  {
+   "a": "BAHIA",
+   "b": "KIWI JACARANDA CHACRA",
+   "literal": 0.29335753846153845,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.29335753846153845
+  },
+  {
+   "a": "CIELO",
+   "b": "KLARO CEIBO PIEDRA PRO",
+   "literal": 0.34113777777777776,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.34113777777777776
+  },
+  {
+   "a": "SOL ARENA CAFE",
+   "b": "HOME",
+   "literal": 0.2589813333333333,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2589813333333333
+  },
+  {
+   "a": "DELTA KAPPA",
+   "b": "DELTA MAR COBALTO TANGO",
+   "literal": 0.6229830374331551,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "YERBA",
+   "b": "ESTANCIA CLUB",
+   "literal": 0.34845538461538467,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.34845538461538467
+  },
+  {
+   "a": "VALLE CAMPO",
+   "b": "BAHIA VECTOR HOME",
+   "literal": 0.34782608695652173,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.34782608695652173
+  },
+  {
+   "a": "YERBA VALLE",
+   "b": "YERBA",
+   "literal": 0.73126,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "AXIS PIXEL",
+   "b": "AXIS SIGMA KIWI",
+   "literal": 0.6490499999999999,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "PIEDRA SOL BRISA",
+   "b": "PIEDRA FUEGO MARKET",
+   "literal": 0.5999047619047618,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "TECH",
+   "b": "TECH TIERRA",
+   "literal": 0.65646,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "ROJA",
+   "b": "ROJA PRO BODEGA AZUL",
+   "literal": 0.40632000000000007,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "VECTOR FARO",
+   "b": "AZUL YERBA XILO NEXO",
+   "literal": 0.30946364809384164,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.30946364809384164
+  },
+  {
+   "a": "XILO KIWI VINO",
+   "b": "XILO OSCURO",
+   "literal": 0.49226666666666663,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ORBITA MAX SIGMA",
+   "b": "COBALTO ESTANCIA",
+   "literal": 0.4375,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.4375
+  },
+  {
+   "a": "DELTA",
+   "b": "NORTE QUIMERA",
+   "literal": 0.3018533333333333,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3018533333333333
+  },
+  {
+   "a": "QUIMERA",
+   "b": "QUIMERA",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CAMPO",
+   "b": "ISLA NORTE",
+   "literal": 0.30444800000000005,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.30444800000000005
+  },
+  {
+   "a": "MADERA",
+   "b": "TECH PIEDRA",
+   "literal": 0.45673882352941186,
+   "castellano": 0.0,
+   "ingles": 0.3552413071895425,
+   "contencion": 0.0,
+   "parecido": 0.45673882352941186
+  },
+  {
+   "a": "GRANJA MAR",
+   "b": "GRANJA RIO CHACRA",
+   "literal": 0.748102,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "FARO ZETA",
+   "b": "FARO KIWI MAR",
+   "literal": 0.5633084071484071,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "HUERTA LUNA",
+   "b": "NORTE SUR ISLA JACARANDA",
+   "literal": 0.3844363636363637,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3844363636363637
+  },
+  {
+   "a": "ANDES CLARO CAMPO",
+   "b": "PUERTO MARKET",
+   "literal": 0.3229295652173913,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3229295652173913
+  },
+  {
+   "a": "SOL",
+   "b": "COBALTO CHACRA",
+   "literal": 0.26594454901960785,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.26594454901960785
+  },
+  {
+   "a": "LAGO",
+   "b": "LAGO ESTANKIA MADERA CIELO",
+   "literal": 0.29580000000000006,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "STUDIO",
+   "b": "STUDIO COBALTO AZUL PURO",
+   "literal": 0.3065228985507247,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3065228985507247
+  },
+  {
+   "a": "VERDE OSCURO LIFE",
+   "b": "VERDE DELTA OSCURO",
+   "literal": 0.7319408866995074,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "VERDE",
+   "b": "MONTE LAGO PRO HUERTA",
+   "literal": 0.2650215384615384,
+   "castellano": 0.0,
+   "ingles": 0.2061278632478632,
+   "contencion": 0.0,
+   "parecido": 0.2650215384615384
+  },
+  {
+   "a": "AZUL PAMPA TIERRA",
+   "b": "AZUL XILO ZAFIRO MATE",
+   "literal": 0.5263157894736843,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "TANGO MARKET SOL",
+   "b": "TANGO TIERRA CLUB",
+   "literal": 0.6207142857142858,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "AIRE",
+   "b": "AIRE",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "TIERRA",
+   "b": "OMEGA",
+   "literal": 0.36363636363636365,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.36363636363636365
+  },
+  {
+   "a": "AGUA PIXEL",
+   "b": "AGUA KOBALTO KIWI",
+   "literal": 0.6219686666666666,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "SMART CLUB",
+   "b": "SMART VINO FUEGO",
+   "literal": 0.6009599999999999,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "PURO FLASH BRISA",
+   "b": "PURO PLATA ZETA",
+   "literal": 0.5806451612903225,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "SIGMA NOVA",
+   "b": "ROJA",
+   "literal": 0.36772571428571427,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.36772571428571427
+  },
+  {
+   "a": "GAMMA",
+   "b": "ESTANCIA ZAFIRO FARO KIWI",
+   "literal": 0.16252799999999998,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.16252799999999998
+  },
+  {
+   "a": "KIWI CEIBO",
+   "b": "KIWI TIERRA",
+   "literal": 0.5714285714285714,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CLUB AGUA SUR",
+   "b": "AZUL MADERA SIERRA YERBA",
+   "literal": 0.39846000000000004,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.39846000000000004
+  },
+  {
+   "a": "BAHIA SIERRA MONTE",
+   "b": "KAFE BINO",
+   "literal": 0.3246858412698413,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3246858412698413
+  },
+  {
+   "a": "ORBITA FLASH",
+   "b": "ORBITA",
+   "literal": 0.76112,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "MAX MAR",
+   "b": "JACARANDA TIERRA SOL",
+   "literal": 0.2964647619047619,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2964647619047619
+  },
+  {
+   "a": "CHACRA LAB",
+   "b": "CHACRA RIO",
+   "literal": 0.81532,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ISLA JACARANDA HOME",
+   "b": "ISLA BRISA OMEGA",
+   "literal": 0.5333333333333334,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "LAB HUERTA RIO",
+   "b": "CLUB QUINTA JACARANDA",
+   "literal": 0.4017998190045248,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.4017998190045248
+  },
+  {
+   "a": "KAPPA PIXEL",
+   "b": "KAPPA BAHIA ISLA",
+   "literal": 0.5931191919191919,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "VIDRIO HIERRO",
+   "b": "VIDRIO",
+   "literal": 0.73612,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "DIGITAL",
+   "b": "DIGITAL KAPPA",
+   "literal": 0.7835885714285714,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "ANDES",
+   "b": "AIRE",
+   "literal": 0.4444444444444444,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.4444444444444444
+  },
+  {
+   "a": "PRO",
+   "b": "QUINTA OMBU TIERRA",
+   "literal": 0.11052214285714285,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.11052214285714285
+  },
+  {
+   "a": "DELTA",
+   "b": "DELTA LAGO SIGMA",
+   "literal": 0.6009599999999999,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CLUB HIERRO VINO",
+   "b": "DELTA MAR FARO FUEGO",
+   "literal": 0.3870967741935484,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3870967741935484
+  },
+  {
+   "a": "LAGO TANGO NORTE",
+   "b": "LAGO TANGO BRISA",
+   "literal": 0.75,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ARENA PUERTO PIEDRA",
+   "b": "PAMPA",
+   "literal": 0.276312,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.276312
+  },
+  {
+   "a": "CLARO SIERRA BODEGA",
+   "b": "RIO OSCURO",
+   "literal": 0.4287827586206897,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.4287827586206897
+  },
+  {
+   "a": "VECTOR KIWI ESTANCIA",
+   "b": "DELTA",
+   "literal": 0.312864,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.312864
+  },
+  {
+   "a": "PUERTO VIDRIO",
+   "b": "ORBITA OSCURO PIEDRA",
+   "literal": 0.4795166433566434,
+   "castellano": 0.0,
+   "ingles": 0.37295738927738925,
+   "contencion": 0.0,
+   "parecido": 0.4795166433566434
+  },
+  {
+   "a": "MARKET TECH",
+   "b": "MARKET BRISA",
+   "literal": 0.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.0
+  },
+  {
+   "a": "CLUB TIERRA",
+   "b": "SIGMA ISLA JACARANDA",
+   "literal": 0.2621511384615384,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2621511384615384
+  },
+  {
+   "a": "KIWI RIO ORBITA",
+   "b": "GRANJA VIDRIO",
+   "literal": 0.3415714285714286,
+   "castellano": 0.0,
+   "ingles": 0.2561785714285714,
+   "contencion": 0.0,
+   "parecido": 0.3415714285714286
+  },
+  {
+   "a": "PURO TECH",
+   "b": "PURO KAPPA HIERRO",
+   "literal": 0.6248337435897436,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "GRANJA HIERRO",
+   "b": "GRANJA",
+   "literal": 0.73612,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "HIERRO PLATA GRANJA",
+   "b": "HIERRO RIO",
+   "literal": 0.6772803448275861,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "TIERRA",
+   "b": "BERDE KASA PET KAPPA",
+   "literal": 0.3164412121212121,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3164412121212121
+  },
+  {
+   "a": "LUNA",
+   "b": "PET PUERTO",
+   "literal": 0.24508000000000002,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24508000000000002
+  },
+  {
+   "a": "TIERRA LAB",
+   "b": "OMEGA KIWI STUDIO KAMPO",
+   "literal": 0.24988703030303028,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24988703030303028
+  },
+  {
+   "a": "COBALTO TECH TANGO",
+   "b": "PIEDRA ARENA",
+   "literal": 0.3010133333333334,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3010133333333334
+  },
+  {
+   "a": "LIFE",
+   "b": "LIFE OSCURO LAB",
+   "literal": 0.65646,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "PUERTO HIERRO",
+   "b": "KASA",
+   "literal": 0.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.0
+  },
+  {
+   "a": "VIDRIO MONTE",
+   "b": "VIDRIO PLATA ORBITA",
+   "literal": 0.7022209354838709,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "LAB HUERTA DIGITAL",
+   "b": "DIGITAL KAFE CLARO",
+   "literal": 0.5275833333333333,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "ESTANCIA NEXO",
+   "b": "FUEGO",
+   "literal": 0.3018533333333333,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3018533333333333
+  },
+  {
+   "a": "SOL KIWI",
+   "b": "CIELO QUINTA CAFE ESTANCIA",
+   "literal": 0.26491338235294126,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.26491338235294126
+  },
+  {
+   "a": "MAR OSCURO BRISA",
+   "b": "MAR",
+   "literal": 0.37312,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.68
+  },
+  {
+   "a": "HUERTA VALLE BRISA",
+   "b": "PURO RIO PIEDRA NORTE",
+   "literal": 0.3230256410256411,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3230256410256411
+  },
+  {
+   "a": "HOME PUERTO",
+   "b": "HOME",
+   "literal": 0.2721279999999999,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2721279999999999
+  },
+  {
+   "a": "LIFE YERBA AIRE",
+   "b": "LIFE ZETA PURO AIRE",
+   "literal": 0.7089264705882353,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "DIGITAL ZETA FLASH",
+   "b": "BAHIA PIEDRA",
+   "literal": 0.3757836666666667,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3757836666666667
+  },
+  {
+   "a": "RIO CLARO",
+   "b": "RIO NOVA OMEGA",
+   "literal": 0.6702697971014493,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "STUDIO",
+   "b": "STUDIO RIO",
+   "literal": 0.5559893333333332,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.5559893333333332
+  },
+  {
+   "a": "NUBE",
+   "b": "JACARANDA COBALTO LIFE",
+   "literal": 0.24146953846153843,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24146953846153843
+  },
+  {
+   "a": "TECH AIRE SIERRA",
+   "b": "AXIS AIRE SUR STUDIO",
+   "literal": 0.5517241379310345,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "NUBE FUEGO",
+   "b": "NEXO",
+   "literal": 0.45932571428571434,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.45932571428571434
+  },
+  {
+   "a": "VERDE",
+   "b": "BERDE NEXO AIRE",
+   "literal": 0.500096,
+   "castellano": 1.0,
+   "ingles": 0.7777777777777777,
+   "contencion": 0.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "FARO MARKET",
+   "b": "FARO MARKET",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "DIGITAL",
+   "b": "DIGITAL ESTANCIA CHACRA",
+   "literal": 0.5908228571428571,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "VERDE",
+   "b": "JAKARANDA BIDRIO BRISA",
+   "literal": 0.18712888888888887,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.18712888888888887
+  },
+  {
+   "a": "LUNA",
+   "b": "BODEGA",
+   "literal": 0.2721279999999999,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2721279999999999
+  },
+  {
+   "a": "PURO",
+   "b": "PURO DIGITAL ZAFIRO",
+   "literal": 0.43164608695652174,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "PUERTO SUR",
+   "b": "PUERTO",
+   "literal": 0.81532,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "HOME",
+   "b": "HOME NOVA VECTOR KAPPA",
+   "literal": 0.21214,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.21214
+  },
+  {
+   "a": "ESTANCIA",
+   "b": "BRISA",
+   "literal": 0.3989239560439561,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3989239560439561
+  },
+  {
+   "a": "STUDIO",
+   "b": "LAGO",
+   "literal": 0.2721279999999999,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2721279999999999
+  },
+  {
+   "a": "RIO",
+   "b": "RIO",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "DELTA",
+   "b": "DELTA QUINTA OMEGA DELTA",
+   "literal": 0.4265489655172414,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "GRANJA SOL PURO",
+   "b": "JACARANDA MONTE",
+   "literal": 0.4,
+   "castellano": 0.0,
+   "ingles": 0.31333333333333335,
+   "contencion": 0.0,
+   "parecido": 0.4
+  },
+  {
+   "a": "CHACRA CEIBO",
+   "b": "CHACRA MADERA GRANJA",
+   "literal": 0.6545906666666667,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CIELO PAMPA TECH",
+   "b": "KIELO",
+   "literal": 0.480768,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.480768
+  },
+  {
+   "a": "CHACRA",
+   "b": "CHACRA BODEGA",
+   "literal": 0.73612,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "AZUL NOVA",
+   "b": "MATE PIEDRA ROJA HIERRO",
+   "literal": 0.3228599111111112,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3228599111111112
+  },
+  {
+   "a": "PIXEL ANDES",
+   "b": "CASA NORTE",
+   "literal": 0.32076190476190475,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.32076190476190475
+  },
+  {
+   "a": "PIEDRA",
+   "b": "KAPPA PAMPA",
+   "literal": 0.3254992156862746,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3254992156862746
+  },
+  {
+   "a": "LAB",
+   "b": "LAB TANGO ISLA BAHIA",
+   "literal": 0.34368,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.34368
+  },
+  {
+   "a": "ORBITA PLATA",
+   "b": "BODEGA DIGITAL ISLA",
+   "literal": 0.4793853149001537,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.4793853149001537
+  },
+  {
+   "a": "CAFE RIO",
+   "b": "CAFE LUX",
+   "literal": 0.6288333333333334,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "KIWI SMART MAX",
+   "b": "FARO BEKTOR PIXEL XILO",
+   "literal": 0.29716870748299323,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.29716870748299323
+  },
+  {
+   "a": "PIXEL MARKET",
+   "b": "HUERTA",
+   "literal": 0.18181818181818177,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.18181818181818177
+  },
+  {
+   "a": "KAPPA XILO AIRE",
+   "b": "VIDRIO KAPPA MAR",
+   "literal": 0.5888387096774195,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "FARO",
+   "b": "FARO GAMMA SOL",
+   "literal": 0.5659866666666666,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "PUERTO",
+   "b": "PUERTO SIGMA ROJA",
+   "literal": 0.6458591304347826,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CIELO LAB CLARO",
+   "b": "ORBITA SOL PUERTO VECTOR",
+   "literal": 0.36856066115702485,
+   "castellano": 0.0,
+   "ingles": 0.26618269972451797,
+   "contencion": 0.0,
+   "parecido": 0.36856066115702485
+  },
+  {
+   "a": "SIERRA ANDES",
+   "b": "SIERRA",
+   "literal": 0.76112,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "FLASH",
+   "b": "KOBALTO",
+   "literal": 0.16666666666666663,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.16666666666666663
+  },
+  {
+   "a": "STUDIO DELTA AZUL",
+   "b": "STUDIO PRO",
+   "literal": 0.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.0
+  },
+  {
+   "a": "XILO CLUB NORTE",
+   "b": "AGUA ARENA",
+   "literal": 0.30000000000000004,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.30000000000000004
+  },
+  {
+   "a": "MATE JACARANDA",
+   "b": "MATE FLASH",
+   "literal": 0.5197142857142857,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "PRO QUIMERA ANDES",
+   "b": "PRO",
+   "literal": 0.34048,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.68
+  },
+  {
+   "a": "KIWI NOVA BODEGA",
+   "b": "KIWI BAHIA LUX",
+   "literal": 0.48506666666666665,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ESTANCIA",
+   "b": "ZAFIRO SOL CHACRA",
+   "literal": 0.37112900000000004,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.37112900000000004
+  },
+  {
+   "a": "AZUL XILO",
+   "b": "RIO AIRE ORBITA NEXO",
+   "literal": 0.3576180930487137,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3576180930487137
+  },
+  {
+   "a": "MADERA",
+   "b": "MADERA PAMPA PET",
+   "literal": 0.76112,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "NEXO VERDE LUNA",
+   "b": "KAPPA QUIMERA PET ANDES",
+   "literal": 0.3130588235294118,
+   "castellano": 0.0,
+   "ingles": 0.22609803921568628,
+   "contencion": 0.0,
+   "parecido": 0.3130588235294118
+  },
+  {
+   "a": "AGUA MAR",
+   "b": "VALLE RIO",
+   "literal": 0.3529411764705882,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3529411764705882
+  },
+  {
+   "a": "TANGO FLASH PRO",
+   "b": "PET",
+   "literal": 0.15476000000000006,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.15476000000000006
+  },
+  {
+   "a": "CASA CLARO",
+   "b": "CASA LUNA",
+   "literal": 0.736842105263158,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "TECH",
+   "b": "KAFE ESTANCIA PURO LAB",
+   "literal": 0.2286963636363636,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2286963636363636
+  },
+  {
+   "a": "PET SMART STUDIO",
+   "b": "PET HUERTA COBALTO PURO",
+   "literal": 0.212912,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.212912
+  },
+  {
+   "a": "CASA CAFE LUX",
+   "b": "CASA VERDE OMBU CAFE",
+   "literal": 0.6839023216783217,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "STUDIO",
+   "b": "STUDIO AIRE",
+   "literal": 0.24508000000000002,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.24508000000000002
+  },
+  {
+   "a": "CLUB SIGMA ZETA",
+   "b": "SOL PRO",
+   "literal": 0.23529411764705888,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.23529411764705888
+  },
+  {
+   "a": "PRO MONTE MAX",
+   "b": "PRO",
+   "literal": 0.47482,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "RIO ZETA",
+   "b": "CLARO CASA",
+   "literal": 0.4444444444444444,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.4444444444444444
+  },
+  {
+   "a": "DELTA LUX",
+   "b": "MONTE OMEGA PLATA",
+   "literal": 0.35238700854700855,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.35238700854700855
+  },
+  {
+   "a": "VINO",
+   "b": "VECTOR XILO ZETA",
+   "literal": 0.33312,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.33312
+  },
+  {
+   "a": "HOME BAHIA",
+   "b": "HOME COBALTO MONTE PIEDRA",
+   "literal": 0.33766399999999996,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.33766399999999996
+  },
+  {
+   "a": "AXIS",
+   "b": "AXIS ARENA ZAFIRO",
+   "literal": 0.48362,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "AXIS",
+   "b": "AXIS TANGO",
+   "literal": 0.68932,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ZAFIRO PUERTO",
+   "b": "ZAFIRO ISLA FLASH QUINTA",
+   "literal": 0.6408766403326402,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CHACRA",
+   "b": "CHACRA MATE",
+   "literal": 0.7874376470588236,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ROJA HUERTA",
+   "b": "SOL LUX",
+   "literal": 0.35660244897959187,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.35660244897959187
+  },
+  {
+   "a": "GRANJA NOVA",
+   "b": "AZUL KAPPA KASA HOME",
+   "literal": 0.3076923076923077,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.3076923076923077
+  },
+  {
+   "a": "PUERTO",
+   "b": "MADERA",
+   "literal": 0.33333333333333337,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.33333333333333337
+  },
+  {
+   "a": "SIERRA DIGITAL",
+   "b": "SIERRA MONTE",
+   "literal": 0.6236410256410256,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "QUINTA XILO DELTA",
+   "b": "QUINTA",
+   "literal": 0.6458591304347826,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "HIERRO TECH",
+   "b": "LAGO QUINTA",
+   "literal": 0.2727272727272727,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2727272727272727
+  },
+  {
+   "a": "VIDRIO",
+   "b": "VIDRIO",
+   "literal": 1.0,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "PUERTO",
+   "b": "FLASH VINO",
+   "literal": 0.1825438095238095,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.1825438095238095
+  },
+  {
+   "a": "FLASH LIFE NORTE",
+   "b": "NORTE",
+   "literal": 0.6009599999999999,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "MATE",
+   "b": "CAFE VALLE DIGITAL",
+   "literal": 0.2286963636363636,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2286963636363636
+  },
+  {
+   "a": "QUIMERA",
+   "b": "LAGO MONTE CAMPO SMART",
+   "literal": 0.2429681325570981,
+   "castellano": 0.0,
+   "ingles": 0.19977379788028066,
+   "contencion": 0.0,
+   "parecido": 0.2429681325570981
+  },
+  {
+   "a": "SUR",
+   "b": "SUR DIGITAL PET",
+   "literal": 0.54712,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "PAMPA SUR ARENA",
+   "b": "PAMPA LIFE KLARO",
+   "literal": 0.5806451612903225,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "DIGITAL VALLE OMBU",
+   "b": "STUDIO",
+   "literal": 0.31256,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.31256
+  },
+  {
+   "a": "HUERTA NOVA",
+   "b": "HUERTA PIEDRA CHACRA",
+   "literal": 0.6589723870967743,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "FUEGO OSCURO YERBA",
+   "b": "AXIS BERDE",
+   "literal": 0.317152,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.317152
+  },
+  {
+   "a": "DIGITAL",
+   "b": "DIGITAL",
+   "literal": 1.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 1.0
+  },
+  {
+   "a": "BRISA AZUL ORBITA",
+   "b": "QUIMERA",
+   "literal": 0.29019085714285714,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.29019085714285714
+  },
+  {
+   "a": "MAX QUIMERA",
+   "b": "BIDRIO BRISA",
+   "literal": 0.26086956521739135,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.26086956521739135
+  },
+  {
+   "a": "HIERRO GAMMA ORBITA",
+   "b": "FUEGO",
+   "literal": 0.276312,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.276312
+  },
+  {
+   "a": "GRANJA LIFE",
+   "b": "GRANJA PLATA BINO",
+   "literal": 0.737604,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "CASA MARKET",
+   "b": "HIERRO MATE KIWI",
+   "literal": 0.1318582857142857,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.1318582857142857
+  },
+  {
+   "a": "HIERRO",
+   "b": "FLASH PURO SUR YERBA",
+   "literal": 0.2926215384615385,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2926215384615385
+  },
+  {
+   "a": "PIEDRA",
+   "b": "BAHIA",
+   "literal": 0.36363636363636365,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.36363636363636365
+  },
+  {
+   "a": "JACARANDA",
+   "b": "JAKARANDA GAMMA",
+   "literal": 0.724728888888889,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 0.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "SUR",
+   "b": "ORBITA",
+   "literal": 0.2779946666666666,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2779946666666666
+  },
+  {
+   "a": "VERDE ESTANCIA SMART",
+   "b": "GRANJA ESTANCIA",
+   "literal": 0.6125714285714285,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "VINO TANGO BODEGA",
+   "b": "VINO RIO NUBE",
+   "literal": 0.6000000000000001,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "PIEDRA",
+   "b": "SIERRA AZUL BAHIA",
+   "literal": 0.43773202635046116,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.43773202635046116
+  },
+  {
+   "a": "LUNA OMEGA FUEGO",
+   "b": "HIERRO SIERRA ISLA",
+   "literal": 0.33270588235294124,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.33270588235294124
+  },
+  {
+   "a": "DELTA",
+   "b": "DELTA PRO",
+   "literal": 0.7928800000000001,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "KAPPA PLATA VALLE",
+   "b": "HUERTA",
+   "literal": 0.21528637681159424,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.21528637681159424
+  },
+  {
+   "a": "CEIBO KAPPA",
+   "b": "MAX VINO TECH",
+   "literal": 0.25,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.25
+  },
+  {
+   "a": "STUDIO OMEGA",
+   "b": "ZAFIRO",
+   "literal": 0.18181818181818177,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.18181818181818177
+  },
+  {
+   "a": "OMEGA HIERRO",
+   "b": "NEXO AZUL MADERA CLARO",
+   "literal": 0.4278286274509804,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.4278286274509804
+  },
+  {
+   "a": "ISLA",
+   "b": "ISLA COBALTO VECTOR",
+   "literal": 0.43164608695652174,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "ORBITA",
+   "b": "GRANJA CHACRA CLARO QUIMERA",
+   "literal": 0.2286963636363636,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.2286963636363636
+  },
+  {
+   "a": "SIERRA CAFE",
+   "b": "SIERRA QUINTA LIFE",
+   "literal": 0.7621182946708465,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "SIGMA",
+   "b": "SIGMA KHACRA",
+   "literal": 0.702964705882353,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "AZUL SIGMA",
+   "b": "LUNA TIERRA SIGMA SUR",
+   "literal": 0.6111928387096774,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "MAR ORBITA",
+   "b": "MAR HUERTA PIXEL",
+   "literal": 0.6782449230769231,
+   "castellano": 0.0,
+   "ingles": 0.48984355555555553,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "SIGMA CAFE CASA",
+   "b": "SIGMA MONTE MARKET BRISA",
+   "literal": 0.625,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "MONTE",
+   "b": "ORBITA HUERTA VECTOR",
+   "literal": 0.266496,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.266496
+  },
+  {
+   "a": "MATE",
+   "b": "PET VINO KAPPA VIDRIO",
+   "literal": 0.13277299999999997,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.13277299999999997
+  },
+  {
+   "a": "PLATA HUERTA VINO",
+   "b": "PLATA NOVA XILO ARENA",
+   "literal": 0.5602105263157895,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "BODEGA PURO",
+   "b": "BODEGA DELTA QUINTA",
+   "literal": 0.6716149090909092,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "DELTA CAFE",
+   "b": "DELTA XILO TANGO MARKET",
+   "literal": 0.6782449230769231,
+   "castellano": 1.0,
+   "ingles": 1.0,
+   "contencion": 1.0,
+   "parecido": 1.0
+  },
+  {
+   "a": "NORTE",
+   "b": "NORTE LUX AXIS BRISA",
+   "literal": 0.5104000000000001,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.8,
+   "parecido": 0.8
+  },
+  {
+   "a": "XILO",
+   "b": "MATE SUR",
+   "literal": 0.0,
+   "castellano": 0.0,
+   "ingles": 0.0,
+   "contencion": 0.0,
+   "parecido": 0.0
+  }
+ ],
+ "claves": [
+  {
+   "palabra": "accion",
+   "castellano": "aksion",
+   "metaphone": "AXN",
+   "ingles": "AKSN"
+  },
+  {
+   "palabra": "ache",
+   "castellano": "aXe",
+   "metaphone": "AX",
+   "ingles": "AX"
+  },
+  {
+   "palabra": "agropecuarios",
+   "castellano": "agropekuarios",
+   "metaphone": "AGRPKRZ",
+   "ingles": "AKRPKRS"
+  },
+  {
+   "palabra": "agua",
+   "castellano": "agua",
+   "metaphone": "AG",
+   "ingles": "AK"
+  },
+  {
+   "palabra": "aire",
+   "castellano": "aire",
+   "metaphone": "AR",
+   "ingles": "AR"
+  },
+  {
+   "palabra": "alegria",
+   "castellano": "alegria",
+   "metaphone": "ALGR",
+   "ingles": "ALKR"
+  },
+  {
+   "palabra": "aliado",
+   "castellano": "aliado",
+   "metaphone": "ALD",
+   "ingles": "ALT"
+  },
+  {
+   "palabra": "align",
+   "castellano": "align",
+   "metaphone": "ALGN",
+   "ingles": "AL"
+  },
+  {
+   "palabra": "aline",
+   "castellano": "aline",
+   "metaphone": "ALN",
+   "ingles": "ALN"
+  },
+  {
+   "palabra": "altessa",
+   "castellano": "altesa",
+   "metaphone": "ALTZZ",
+   "ingles": "ALTS"
+  },
+  {
+   "palabra": "andes",
+   "castellano": "andes",
+   "metaphone": "ANDZ",
+   "ingles": "ANTS"
+  },
+  {
+   "palabra": "arena",
+   "castellano": "arena",
+   "metaphone": "ARN",
+   "ingles": "ARN"
+  },
+  {
+   "palabra": "arg",
+   "castellano": "arg",
+   "metaphone": "ARG",
+   "ingles": "ARK"
+  },
+  {
+   "palabra": "arky",
+   "castellano": "arky",
+   "metaphone": "ARKY",
+   "ingles": "ARK"
+  },
+  {
+   "palabra": "asset",
+   "castellano": "aset",
+   "metaphone": "AZZT",
+   "ingles": "AST"
+  },
+  {
+   "palabra": "asuncion",
+   "castellano": "asunsion",
+   "metaphone": "AZNZN",
+   "ingles": "ASNSN"
+  },
+  {
+   "palabra": "austral",
+   "castellano": "austral",
+   "metaphone": "AZTRL",
+   "ingles": "ASTRL"
+  },
+  {
+   "palabra": "axion",
+   "castellano": "aksion",
+   "metaphone": "AXN",
+   "ingles": "AKSN"
+  },
+  {
+   "palabra": "axis",
+   "castellano": "aksis",
+   "metaphone": "AXZ",
+   "ingles": "AKSS"
+  },
+  {
+   "palabra": "azul",
+   "castellano": "asul",
+   "metaphone": "AZL",
+   "ingles": "ASL"
+  },
+  {
+   "palabra": "bahia",
+   "castellano": "baia",
+   "metaphone": "VI",
+   "ingles": "BH"
+  },
+  {
+   "palabra": "balle",
+   "castellano": "baye",
+   "metaphone": "VY",
+   "ingles": "BL"
+  },
+  {
+   "palabra": "bar",
+   "castellano": "bar",
+   "metaphone": "VR",
+   "ingles": "BR"
+  },
+  {
+   "palabra": "bartolome",
+   "castellano": "bartolome",
+   "metaphone": "VRTLM",
+   "ingles": "BRTLM"
+  },
+  {
+   "palabra": "bector",
+   "castellano": "bektor",
+   "metaphone": "VKTR",
+   "ingles": "BKTR"
+  },
+  {
+   "palabra": "bektor",
+   "castellano": "bektor",
+   "metaphone": "VKTR",
+   "ingles": "BKTR"
+  },
+  {
+   "palabra": "berde",
+   "castellano": "berde",
+   "metaphone": "VRD",
+   "ingles": "BRT"
+  },
+  {
+   "palabra": "bidrio",
+   "castellano": "bidrio",
+   "metaphone": "VDR",
+   "ingles": "BTR"
+  },
+  {
+   "palabra": "bigtelligent",
+   "castellano": "bigteyijent",
+   "metaphone": "VGTYJNT",
+   "ingles": "BKTLJNT"
+  },
+  {
+   "palabra": "bino",
+   "castellano": "bino",
+   "metaphone": "VN",
+   "ingles": "BN"
+  },
+  {
+   "palabra": "bio",
+   "castellano": "bio",
+   "metaphone": "V",
+   "ingles": "B"
+  },
+  {
+   "palabra": "bobs",
+   "castellano": "bobs",
+   "metaphone": "VZ",
+   "ingles": "BBS"
+  },
+  {
+   "palabra": "bodega",
+   "castellano": "bodega",
+   "metaphone": "VDG",
+   "ingles": "BTK"
+  },
+  {
+   "palabra": "brisa",
+   "castellano": "brisa",
+   "metaphone": "VRZ",
+   "ingles": "BRS"
+  },
+  {
+   "palabra": "brujula",
+   "castellano": "brujula",
+   "metaphone": "VRJL",
+   "ingles": "BRJL"
+  },
+  {
+   "palabra": "cafe",
+   "castellano": "kafe",
+   "metaphone": "KF",
+   "ingles": "KF"
+  },
+  {
+   "palabra": "campo",
+   "castellano": "kampo",
+   "metaphone": "KNP",
+   "ingles": "KMP"
+  },
+  {
+   "palabra": "casa",
+   "castellano": "kasa",
+   "metaphone": "KZ",
+   "ingles": "KS"
+  },
+  {
+   "palabra": "ceibo",
+   "castellano": "seibo",
+   "metaphone": "ZV",
+   "ingles": "SB"
+  },
+  {
+   "palabra": "centro",
+   "castellano": "sentro",
+   "metaphone": "ZNTR",
+   "ingles": "SNTR"
+  },
+  {
+   "palabra": "cerveza",
+   "castellano": "serbesa",
+   "metaphone": "ZRVZ",
+   "ingles": "SRFS"
+  },
+  {
+   "palabra": "chacra",
+   "castellano": "Xakra",
+   "metaphone": "XKR",
+   "ingles": "XKR"
+  },
+  {
+   "palabra": "chouroom",
+   "castellano": "Xouroom",
+   "metaphone": "XRM",
+   "ingles": "XRM"
+  },
+  {
+   "palabra": "cielo",
+   "castellano": "sielo",
+   "metaphone": "ZL",
+   "ingles": "SL"
+  },
+  {
+   "palabra": "ciencia",
+   "castellano": "siensia",
+   "metaphone": "ZNZ",
+   "ingles": "SNX"
+  },
+  {
+   "palabra": "claro",
+   "castellano": "klaro",
+   "metaphone": "KLR",
+   "ingles": "KLR"
+  },
+  {
+   "palabra": "club",
+   "castellano": "klub",
+   "metaphone": "KLV",
+   "ingles": "KLB"
+  },
+  {
+   "palabra": "cobalto",
+   "castellano": "kobalto",
+   "metaphone": "KVLT",
+   "ingles": "KBLT"
+  },
+  {
+   "palabra": "cofre",
+   "castellano": "kofre",
+   "metaphone": "KFR",
+   "ingles": "KFR"
+  },
+  {
+   "palabra": "colilux",
+   "castellano": "koliluks",
+   "metaphone": "KLLX",
+   "ingles": "KLLKS"
+  },
+  {
+   "palabra": "comarca",
+   "castellano": "komarka",
+   "metaphone": "KMRK",
+   "ingles": "KMRK"
+  },
+  {
+   "palabra": "conecta",
+   "castellano": "konekta",
+   "metaphone": "KNKT",
+   "ingles": "KNKT"
+  },
+  {
+   "palabra": "conectar",
+   "castellano": "konektar",
+   "metaphone": "KNKTR",
+   "ingles": "KNKTR"
+  },
+  {
+   "palabra": "conversaciones",
+   "castellano": "konbersasiones",
+   "metaphone": "KNVRZZNZ",
+   "ingles": "KNFRSSNS"
+  },
+  {
+   "palabra": "correo",
+   "castellano": "korreo",
+   "metaphone": "KRR",
+   "ingles": "KR"
+  },
+  {
+   "palabra": "cultura",
+   "castellano": "kultura",
+   "metaphone": "KLTR",
+   "ingles": "KLTR"
+  },
+  {
+   "palabra": "decolux",
+   "castellano": "dekoluks",
+   "metaphone": "DKLX",
+   "ingles": "TKLKS"
+  },
+  {
+   "palabra": "delta",
+   "castellano": "delta",
+   "metaphone": "DLT",
+   "ingles": "TLT"
+  },
+  {
+   "palabra": "didactico",
+   "castellano": "didaktiko",
+   "metaphone": "DDKTK",
+   "ingles": "TTKTK"
+  },
+  {
+   "palabra": "didactika",
+   "castellano": "didaktika",
+   "metaphone": "DDKTK",
+   "ingles": "TTKTK"
+  },
+  {
+   "palabra": "dietetica",
+   "castellano": "dietetika",
+   "metaphone": "DTTK",
+   "ingles": "TTTK"
+  },
+  {
+   "palabra": "digital",
+   "castellano": "dijital",
+   "metaphone": "DJTL",
+   "ingles": "TJTL"
+  },
+  {
+   "palabra": "donde",
+   "castellano": "donde",
+   "metaphone": "DND",
+   "ingles": "TNT"
+  },
+  {
+   "palabra": "dragon",
+   "castellano": "dragon",
+   "metaphone": "DRGN",
+   "ingles": "TRKN"
+  },
+  {
+   "palabra": "electric",
+   "castellano": "elektrik",
+   "metaphone": "ELKTRK",
+   "ingles": "ELKTRK"
+  },
+  {
+   "palabra": "electricidad",
+   "castellano": "elektrisidad",
+   "metaphone": "ELKTRZDD",
+   "ingles": "ELKTRSTT"
+  },
+  {
+   "palabra": "empieza",
+   "castellano": "empiesa",
+   "metaphone": "ENPZ",
+   "ingles": "EMPS"
+  },
+  {
+   "palabra": "ensenyamos",
+   "castellano": "ensenyamos",
+   "metaphone": "ENZNYMZ",
+   "ingles": "ENSNYMS"
+  },
+  {
+   "palabra": "escot",
+   "castellano": "eskot",
+   "metaphone": "EZKT",
+   "ingles": "ESKT"
+  },
+  {
+   "palabra": "estancia",
+   "castellano": "estansia",
+   "metaphone": "EZTNZ",
+   "ingles": "ESTNX"
+  },
+  {
+   "palabra": "estankia",
+   "castellano": "estankia",
+   "metaphone": "EZTNK",
+   "ingles": "ESTNK"
+  },
+  {
+   "palabra": "faro",
+   "castellano": "faro",
+   "metaphone": "FR",
+   "ingles": "FR"
+  },
+  {
+   "palabra": "fca",
+   "castellano": "fka",
+   "metaphone": "FK",
+   "ingles": "FK"
+  },
+  {
+   "palabra": "fenix",
+   "castellano": "feniks",
+   "metaphone": "FNX",
+   "ingles": "FNKS"
+  },
+  {
+   "palabra": "flash",
+   "castellano": "flaX",
+   "metaphone": "FLZH",
+   "ingles": "FLX"
+  },
+  {
+   "palabra": "franquicias",
+   "castellano": "frankisias",
+   "metaphone": "FRNKZZ",
+   "ingles": "FRNKXS"
+  },
+  {
+   "palabra": "freedom",
+   "castellano": "freedom",
+   "metaphone": "FRDM",
+   "ingles": "FRTM"
+  },
+  {
+   "palabra": "fuego",
+   "castellano": "fuego",
+   "metaphone": "FG",
+   "ingles": "FK"
+  },
+  {
+   "palabra": "funko",
+   "castellano": "funko",
+   "metaphone": "FNK",
+   "ingles": "FNK"
+  },
+  {
+   "palabra": "funkos",
+   "castellano": "funkos",
+   "metaphone": "FNKZ",
+   "ingles": "FNKS"
+  },
+  {
+   "palabra": "gamma",
+   "castellano": "gama",
+   "metaphone": "GM",
+   "ingles": "KM"
+  },
+  {
+   "palabra": "gente",
+   "castellano": "jente",
+   "metaphone": "JNT",
+   "ingles": "JNT"
+  },
+  {
+   "palabra": "gnomo",
+   "castellano": "gnomo",
+   "metaphone": "GNM",
+   "ingles": "NM"
+  },
+  {
+   "palabra": "granja",
+   "castellano": "granja",
+   "metaphone": "GRNJ",
+   "ingles": "KRNJ"
+  },
+  {
+   "palabra": "guisqui",
+   "castellano": "jiski",
+   "metaphone": "GZK",
+   "ingles": "KSK"
+  },
+  {
+   "palabra": "hache",
+   "castellano": "aXe",
+   "metaphone": "AX",
+   "ingles": "HX"
+  },
+  {
+   "palabra": "hi",
+   "castellano": "i",
+   "metaphone": "I",
+   "ingles": "H"
+  },
+  {
+   "palabra": "hierro",
+   "castellano": "ierro",
+   "metaphone": "IRR",
+   "ingles": "HR"
+  },
+  {
+   "palabra": "high",
+   "castellano": "ig",
+   "metaphone": "IGH",
+   "ingles": "HKH"
+  },
+  {
+   "palabra": "home",
+   "castellano": "ome",
+   "metaphone": "OM",
+   "ingles": "HM"
+  },
+  {
+   "palabra": "huerta",
+   "castellano": "uerta",
+   "metaphone": "URT",
+   "ingles": "HRT"
+  },
+  {
+   "palabra": "incomodas",
+   "castellano": "inkomodas",
+   "metaphone": "INKMDZ",
+   "ingles": "INKMTS"
+  },
+  {
+   "palabra": "ins",
+   "castellano": "ins",
+   "metaphone": "INZ",
+   "ingles": "INS"
+  },
+  {
+   "palabra": "inspira",
+   "castellano": "inspira",
+   "metaphone": "INZPR",
+   "ingles": "INSPR"
+  },
+  {
+   "palabra": "isla",
+   "castellano": "isla",
+   "metaphone": "IZL",
+   "ingles": "ISL"
+  },
+  {
+   "palabra": "jacaranda",
+   "castellano": "jakaranda",
+   "metaphone": "JKRND",
+   "ingles": "JKRNT"
+  },
+  {
+   "palabra": "jakaranda",
+   "castellano": "jakaranda",
+   "metaphone": "JKRND",
+   "ingles": "JKRNT"
+  },
+  {
+   "palabra": "kafe",
+   "castellano": "kafe",
+   "metaphone": "KF",
+   "ingles": "KF"
+  },
+  {
+   "palabra": "kampo",
+   "castellano": "kampo",
+   "metaphone": "KNP",
+   "ingles": "KMP"
+  },
+  {
+   "palabra": "kappa",
+   "castellano": "kapa",
+   "metaphone": "KP",
+   "ingles": "KP"
+  },
+  {
+   "palabra": "kasa",
+   "castellano": "kasa",
+   "metaphone": "KZ",
+   "ingles": "KS"
+  },
+  {
+   "palabra": "keibo",
+   "castellano": "keibo",
+   "metaphone": "KV",
+   "ingles": "KB"
+  },
+  {
+   "palabra": "keseria",
+   "castellano": "keseria",
+   "metaphone": "KZR",
+   "ingles": "KSR"
+  },
+  {
+   "palabra": "khacra",
+   "castellano": "kakra",
+   "metaphone": "KAKR",
+   "ingles": "KHKR"
+  },
+  {
+   "palabra": "kielo",
+   "castellano": "kielo",
+   "metaphone": "KL",
+   "ingles": "KL"
+  },
+  {
+   "palabra": "kimballa",
+   "castellano": "kimbaya",
+   "metaphone": "KNVY",
+   "ingles": "KMBL"
+  },
+  {
+   "palabra": "kira",
+   "castellano": "kira",
+   "metaphone": "KR",
+   "ingles": "KR"
+  },
+  {
+   "palabra": "kiwi",
+   "castellano": "kiui",
+   "metaphone": "KU",
+   "ingles": "KW"
+  },
+  {
+   "palabra": "klaro",
+   "castellano": "klaro",
+   "metaphone": "KLR",
+   "ingles": "KLR"
+  },
+  {
+   "palabra": "klub",
+   "castellano": "klub",
+   "metaphone": "KLV",
+   "ingles": "KLB"
+  },
+  {
+   "palabra": "knight",
+   "castellano": "knigt",
+   "metaphone": "KNGHT",
+   "ingles": "NT"
+  },
+  {
+   "palabra": "kobalto",
+   "castellano": "kobalto",
+   "metaphone": "KVLT",
+   "ingles": "KBLT"
+  },
+  {
+   "palabra": "krac",
+   "castellano": "krak",
+   "metaphone": "KRK",
+   "ingles": "KRK"
+  },
+  {
+   "palabra": "lab",
+   "castellano": "lab",
+   "metaphone": "LV",
+   "ingles": "LB"
+  },
+  {
+   "palabra": "lago",
+   "castellano": "lago",
+   "metaphone": "LG",
+   "ingles": "LK"
+  },
+  {
+   "palabra": "lam",
+   "castellano": "lam",
+   "metaphone": "LM",
+   "ingles": "LM"
+  },
+  {
+   "palabra": "lamb",
+   "castellano": "lamb",
+   "metaphone": "LNV",
+   "ingles": "LM"
+  },
+  {
+   "palabra": "library",
+   "castellano": "library",
+   "metaphone": "LVRRY",
+   "ingles": "LBRR"
+  },
+  {
+   "palabra": "life",
+   "castellano": "life",
+   "metaphone": "LF",
+   "ingles": "LF"
+  },
+  {
+   "palabra": "lluvia",
+   "castellano": "yubia",
+   "metaphone": "YV",
+   "ingles": "LF"
+  },
+  {
+   "palabra": "logistica",
+   "castellano": "lojistika",
+   "metaphone": "LJZTK",
+   "ingles": "LJSTK"
+  },
+  {
+   "palabra": "luna",
+   "castellano": "luna",
+   "metaphone": "LN",
+   "ingles": "LN"
+  },
+  {
+   "palabra": "lux",
+   "castellano": "luks",
+   "metaphone": "LX",
+   "ingles": "LKS"
+  },
+  {
+   "palabra": "madera",
+   "castellano": "madera",
+   "metaphone": "MDR",
+   "ingles": "MTR"
+  },
+  {
+   "palabra": "mar",
+   "castellano": "mar",
+   "metaphone": "MR",
+   "ingles": "MR"
+  },
+  {
+   "palabra": "market",
+   "castellano": "market",
+   "metaphone": "MRKT",
+   "ingles": "MRKT"
+  },
+  {
+   "palabra": "mate",
+   "castellano": "mate",
+   "metaphone": "MT",
+   "ingles": "MT"
+  },
+  {
+   "palabra": "materiales",
+   "castellano": "materiales",
+   "metaphone": "MTRLZ",
+   "ingles": "MTRLS"
+  },
+  {
+   "palabra": "max",
+   "castellano": "maks",
+   "metaphone": "MX",
+   "ingles": "MKS"
+  },
+  {
+   "palabra": "mayorista",
+   "castellano": "mayorista",
+   "metaphone": "MYRZT",
+   "ingles": "MYRST"
+  },
+  {
+   "palabra": "mbopi",
+   "castellano": "mbopi",
+   "metaphone": "NVP",
+   "ingles": "MBP"
+  },
+  {
+   "palabra": "mep",
+   "castellano": "mep",
+   "metaphone": "MP",
+   "ingles": "MP"
+  },
+  {
+   "palabra": "mjc",
+   "castellano": "mjk",
+   "metaphone": "MJK",
+   "ingles": "MJK"
+  },
+  {
+   "palabra": "mona",
+   "castellano": "mona",
+   "metaphone": "MN",
+   "ingles": "MN"
+  },
+  {
+   "palabra": "monte",
+   "castellano": "monte",
+   "metaphone": "MNT",
+   "ingles": "MNT"
+  },
+  {
+   "palabra": "monteclaro",
+   "castellano": "monteklaro",
+   "metaphone": "MNTKLR",
+   "ingles": "MNTKLR"
+  },
+  {
+   "palabra": "morgan",
+   "castellano": "morgan",
+   "metaphone": "MRGN",
+   "ingles": "MRKN"
+  },
+  {
+   "palabra": "mujeres",
+   "castellano": "mujeres",
+   "metaphone": "MJRZ",
+   "ingles": "MJRS"
+  },
+  {
+   "palabra": "nbopi",
+   "castellano": "nbopi",
+   "metaphone": "NVP",
+   "ingles": "NBP"
+  },
+  {
+   "palabra": "necesita",
+   "castellano": "nesesita",
+   "metaphone": "NZZT",
+   "ingles": "NSST"
+  },
+  {
+   "palabra": "nexo",
+   "castellano": "nekso",
+   "metaphone": "NX",
+   "ingles": "NKS"
+  },
+  {
+   "palabra": "niandu",
+   "castellano": "niandu",
+   "metaphone": "NND",
+   "ingles": "NNT"
+  },
+  {
+   "palabra": "night",
+   "castellano": "nigt",
+   "metaphone": "NGHT",
+   "ingles": "NT"
+  },
+  {
+   "palabra": "nomo",
+   "castellano": "nomo",
+   "metaphone": "NM",
+   "ingles": "NM"
+  },
+  {
+   "palabra": "norte",
+   "castellano": "norte",
+   "metaphone": "NRT",
+   "ingles": "NRT"
+  },
+  {
+   "palabra": "nova",
+   "castellano": "noba",
+   "metaphone": "NV",
+   "ingles": "NF"
+  },
+  {
+   "palabra": "nube",
+   "castellano": "nube",
+   "metaphone": "NV",
+   "ingles": "NB"
+  },
+  {
+   "palabra": "nyandu",
+   "castellano": "nyandu",
+   "metaphone": "NYND",
+   "ingles": "NYNT"
+  },
+  {
+   "palabra": "ombu",
+   "castellano": "ombu",
+   "metaphone": "ONV",
+   "ingles": "OMB"
+  },
+  {
+   "palabra": "omega",
+   "castellano": "omega",
+   "metaphone": "OMG",
+   "ingles": "OMK"
+  },
+  {
+   "palabra": "one",
+   "castellano": "one",
+   "metaphone": "ON",
+   "ingles": "ON"
+  },
+  {
+   "palabra": "onetouch",
+   "castellano": "onetouX",
+   "metaphone": "ONTX",
+   "ingles": "ONTX"
+  },
+  {
+   "palabra": "orbita",
+   "castellano": "orbita",
+   "metaphone": "ORVT",
+   "ingles": "ORBT"
+  },
+  {
+   "palabra": "oscuro",
+   "castellano": "oskuro",
+   "metaphone": "OZKR",
+   "ingles": "OSKR"
+  },
+  {
+   "palabra": "pampa",
+   "castellano": "pampa",
+   "metaphone": "PNP",
+   "ingles": "PMP"
+  },
+  {
+   "palabra": "peke",
+   "castellano": "peke",
+   "metaphone": "PK",
+   "ingles": "PK"
+  },
+  {
+   "palabra": "perro",
+   "castellano": "perro",
+   "metaphone": "PRR",
+   "ingles": "PR"
+  },
+  {
+   "palabra": "pet",
+   "castellano": "pet",
+   "metaphone": "PT",
+   "ingles": "PT"
+  },
+  {
+   "palabra": "phoenix",
+   "castellano": "poeniks",
+   "metaphone": "PONX",
+   "ingles": "FNKS"
+  },
+  {
+   "palabra": "piedra",
+   "castellano": "piedra",
+   "metaphone": "PDR",
+   "ingles": "PTR"
+  },
+  {
+   "palabra": "pixel",
+   "castellano": "piksel",
+   "metaphone": "PXL",
+   "ingles": "PKSL"
+  },
+  {
+   "palabra": "pj",
+   "castellano": "pj",
+   "metaphone": "PJ",
+   "ingles": "PJ"
+  },
+  {
+   "palabra": "pjota",
+   "castellano": "pjota",
+   "metaphone": "PJT",
+   "ingles": "PJT"
+  },
+  {
+   "palabra": "plata",
+   "castellano": "plata",
+   "metaphone": "PLT",
+   "ingles": "PLT"
+  },
+  {
+   "palabra": "privado",
+   "castellano": "pribado",
+   "metaphone": "PRVD",
+   "ingles": "PRFT"
+  },
+  {
+   "palabra": "pro",
+   "castellano": "pro",
+   "metaphone": "PR",
+   "ingles": "PR"
+  },
+  {
+   "palabra": "proveedor",
+   "castellano": "probeedor",
+   "metaphone": "PRVDR",
+   "ingles": "PRFTR"
+  },
+  {
+   "palabra": "proyectar",
+   "castellano": "proyektar",
+   "metaphone": "PRYKTR",
+   "ingles": "PRYKTR"
+  },
+  {
+   "palabra": "psico",
+   "castellano": "psiko",
+   "metaphone": "ZK",
+   "ingles": "PSK"
+  },
+  {
+   "palabra": "publicidad",
+   "castellano": "publisidad",
+   "metaphone": "PVLZDD",
+   "ingles": "PBLSTT"
+  },
+  {
+   "palabra": "puerto",
+   "castellano": "puerto",
+   "metaphone": "PRT",
+   "ingles": "PRT"
+  },
+  {
+   "palabra": "punto",
+   "castellano": "punto",
+   "metaphone": "PNT",
+   "ingles": "PNT"
+  },
+  {
+   "palabra": "puntual",
+   "castellano": "puntual",
+   "metaphone": "PNTL",
+   "ingles": "PNTL"
+  },
+  {
+   "palabra": "purafarma",
+   "castellano": "purafarma",
+   "metaphone": "PRFRM",
+   "ingles": "PRFRM"
+  },
+  {
+   "palabra": "puraire",
+   "castellano": "puraire",
+   "metaphone": "PRR",
+   "ingles": "PRR"
+  },
+  {
+   "palabra": "puro",
+   "castellano": "puro",
+   "metaphone": "PR",
+   "ingles": "PR"
+  },
+  {
+   "palabra": "queseria",
+   "castellano": "keseria",
+   "metaphone": "KZR",
+   "ingles": "KSR"
+  },
+  {
+   "palabra": "quimbaya",
+   "castellano": "kimbaya",
+   "metaphone": "KNVY",
+   "ingles": "KMBY"
+  },
+  {
+   "palabra": "quimera",
+   "castellano": "kimera",
+   "metaphone": "KMR",
+   "ingles": "KMR"
+  },
+  {
+   "palabra": "quinta",
+   "castellano": "kinta",
+   "metaphone": "KNT",
+   "ingles": "KNT"
+  },
+  {
+   "palabra": "rado",
+   "castellano": "rado",
+   "metaphone": "RD",
+   "ingles": "RT"
+  },
+  {
+   "palabra": "ride",
+   "castellano": "ride",
+   "metaphone": "RD",
+   "ingles": "RT"
+  },
+  {
+   "palabra": "rio",
+   "castellano": "rio",
+   "metaphone": "R",
+   "ingles": "R"
+  },
+  {
+   "palabra": "roja",
+   "castellano": "roja",
+   "metaphone": "RJ",
+   "ingles": "RJ"
+  },
+  {
+   "palabra": "rojo",
+   "castellano": "rojo",
+   "metaphone": "RJ",
+   "ingles": "RJ"
+  },
+  {
+   "palabra": "sagrado",
+   "castellano": "sagrado",
+   "metaphone": "ZGRD",
+   "ingles": "SKRT"
+  },
+  {
+   "palabra": "sain",
+   "castellano": "sain",
+   "metaphone": "ZN",
+   "ingles": "SN"
+  },
+  {
+   "palabra": "salud",
+   "castellano": "salud",
+   "metaphone": "ZLD",
+   "ingles": "SLT"
+  },
+  {
+   "palabra": "scott",
+   "castellano": "skot",
+   "metaphone": "EZKT",
+   "ingles": "SKT"
+  },
+  {
+   "palabra": "servesa",
+   "castellano": "serbesa",
+   "metaphone": "ZRVZ",
+   "ingles": "SRFS"
+  },
+  {
+   "palabra": "showroom",
+   "castellano": "Xouroom",
+   "metaphone": "EZOURM",
+   "ingles": "XRM"
+  },
+  {
+   "palabra": "sico",
+   "castellano": "siko",
+   "metaphone": "ZK",
+   "ingles": "SK"
+  },
+  {
+   "palabra": "sierra",
+   "castellano": "sierra",
+   "metaphone": "ZRR",
+   "ingles": "SR"
+  },
+  {
+   "palabra": "sigma",
+   "castellano": "sigma",
+   "metaphone": "ZGM",
+   "ingles": "SKM"
+  },
+  {
+   "palabra": "sign",
+   "castellano": "sign",
+   "metaphone": "ZGN",
+   "ingles": "S"
+  },
+  {
+   "palabra": "simona",
+   "castellano": "simona",
+   "metaphone": "ZMN",
+   "ingles": "SMN"
+  },
+  {
+   "palabra": "smart",
+   "castellano": "smart",
+   "metaphone": "EZMRT",
+   "ingles": "SMRT"
+  },
+  {
+   "palabra": "sol",
+   "castellano": "sol",
+   "metaphone": "ZL",
+   "ingles": "SL"
+  },
+  {
+   "palabra": "solocanis",
+   "castellano": "solokanis",
+   "metaphone": "ZLKNZ",
+   "ingles": "SLKNS"
+  },
+  {
+   "palabra": "studio",
+   "castellano": "studio",
+   "metaphone": "EZTD",
+   "ingles": "STT"
+  },
+  {
+   "palabra": "sur",
+   "castellano": "sur",
+   "metaphone": "ZR",
+   "ingles": "SR"
+  },
+  {
+   "palabra": "syncro",
+   "castellano": "synkro",
+   "metaphone": "EZYNKR",
+   "ingles": "SNKR"
+  },
+  {
+   "palabra": "tango",
+   "castellano": "tango",
+   "metaphone": "TNG",
+   "ingles": "TNK"
+  },
+  {
+   "palabra": "tech",
+   "castellano": "teX",
+   "metaphone": "TX",
+   "ingles": "TX"
+  },
+  {
+   "palabra": "tekh",
+   "castellano": "tek",
+   "metaphone": "TKH",
+   "ingles": "TKH"
+  },
+  {
+   "palabra": "tierra",
+   "castellano": "tierra",
+   "metaphone": "TRR",
+   "ingles": "TR"
+  },
+  {
+   "palabra": "tolkara",
+   "castellano": "tolkara",
+   "metaphone": "TLKR",
+   "ingles": "TLKR"
+  },
+  {
+   "palabra": "touch",
+   "castellano": "touX",
+   "metaphone": "TX",
+   "ingles": "TX"
+  },
+  {
+   "palabra": "tristeza",
+   "castellano": "tristesa",
+   "metaphone": "TRZTZ",
+   "ingles": "TRSTS"
+  },
+  {
+   "palabra": "v",
+   "castellano": "b",
+   "metaphone": "V",
+   "ingles": "F"
+  },
+  {
+   "palabra": "valle",
+   "castellano": "baye",
+   "metaphone": "VY",
+   "ingles": "FL"
+  },
+  {
+   "palabra": "vector",
+   "castellano": "bektor",
+   "metaphone": "VKTR",
+   "ingles": "FKTR"
+  },
+  {
+   "palabra": "verde",
+   "castellano": "berde",
+   "metaphone": "VRD",
+   "ingles": "FRT"
+  },
+  {
+   "palabra": "vidrio",
+   "castellano": "bidrio",
+   "metaphone": "VDR",
+   "ingles": "FTR"
+  },
+  {
+   "palabra": "vino",
+   "castellano": "bino",
+   "metaphone": "VN",
+   "ingles": "FN"
+  },
+  {
+   "palabra": "whisky",
+   "castellano": "uisky",
+   "metaphone": "UIZKY",
+   "ingles": "WSK"
+  },
+  {
+   "palabra": "wild",
+   "castellano": "uild",
+   "metaphone": "ULD",
+   "ingles": "WLT"
+  },
+  {
+   "palabra": "xanadu",
+   "castellano": "ksanadu",
+   "metaphone": "XND",
+   "ingles": "SNT"
+  },
+  {
+   "palabra": "xilo",
+   "castellano": "ksilo",
+   "metaphone": "XL",
+   "ingles": "SL"
+  },
+  {
+   "palabra": "yerba",
+   "castellano": "yerba",
+   "metaphone": "YRV",
+   "ingles": "YRB"
+  },
+  {
+   "palabra": "yubia",
+   "castellano": "yubia",
+   "metaphone": "YV",
+   "ingles": "YB"
+  },
+  {
+   "palabra": "zafiro",
+   "castellano": "safiro",
+   "metaphone": "ZFR",
+   "ingles": "SFR"
+  },
+  {
+   "palabra": "zanadu",
+   "castellano": "sanadu",
+   "metaphone": "ZND",
+   "ingles": "SNT"
+  },
+  {
+   "palabra": "zeta",
+   "castellano": "seta",
+   "metaphone": "ZT",
+   "ingles": "ST"
+  }
+ ]
+}
