@@ -1,6 +1,6 @@
 import { useEffect, useState, type CSSProperties } from "react";
 import { Isotipo } from "../Isotipo";
-import { URL_FORMULARIO, URL_SISTEMA } from "../piezas";
+import { enlaceInterno, URL_FORMULARIO, URL_SISTEMA } from "../piezas";
 
 const ENLACES = [
   ["#embudo", "Cómo trabaja"],
@@ -10,7 +10,8 @@ const ENLACES = [
   ["#cartera", "La cartera"],
 ] as const;
 
-export function Cabecera() {
+/** `inicio` is the way back to the landing: empty on it, "../" from a page in a folder. */
+export function Cabecera({ inicio = "" }: { inicio?: string }) {
   const [avance, setAvance] = useState(0);
   useEffect(() => {
     let cuadro = 0;
@@ -35,13 +36,17 @@ export function Cabecera() {
   return (
     <header className={avance > 0.002 ? "cabecera con-borde" : "cabecera"}>
       <div className="marco cabecera-fila">
-        <a className="marca" href="#arriba" aria-label="Monitor de Marcas, volver arriba">
+        <a
+          className="marca"
+          href={enlaceInterno(inicio || "#arriba")}
+          aria-label={inicio ? "Monitor de Marcas, ir al inicio" : "Monitor de Marcas, volver arriba"}
+        >
           <Isotipo className="marca-iso" />
           <span className="marca-nombre">Monitor de Marcas</span>
         </a>
         <nav className="menu" aria-label="Secciones">
           {ENLACES.map(([href, texto]) => (
-            <a key={href} href={href}>
+            <a key={href} href={enlaceInterno(inicio + href)}>
               {texto}
             </a>
           ))}

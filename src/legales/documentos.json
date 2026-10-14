@@ -1,0 +1,2797 @@
+{
+ "terminos": {
+  "titulo": "TÉRMINOS Y CONDICIONES DE USO Y CONTRATACIÓN",
+  "inicio": [
+   {
+    "tipo": "parrafo",
+    "partes": [
+     {
+      "texto": "MONITOR DE MARCAS",
+      "negrita": true
+     }
+    ]
+   },
+   {
+    "tipo": "parrafo",
+    "partes": [
+     {
+      "texto": "Última actualización: 13 de octubre de 2026",
+      "negrita": true
+     }
+    ]
+   }
+  ],
+  "clausulas": [
+   {
+    "numero": 1,
+    "titulo": "1. IDENTIFICACIÓN DE LOS PRESTADORES",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS (en adelante, la “Plataforma”) es un servicio digital de vigilancia, búsqueda, seguimiento y administración de marcas, disponible en https://monitordemarcas.com.ar/.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La Plataforma es desarrollada, administrada y gestionada conjuntamente por:",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "lista",
+      "numerada": true,
+      "items": [
+       [
+        {
+         "texto": "Delfina Álvarez",
+         "negrita": true
+        },
+        {
+         "texto": ", CUIT: 27-41037272-5",
+         "negrita": false
+        }
+       ],
+       [
+        {
+         "texto": "Rodrigo Muñoz",
+         "negrita": true
+        },
+        {
+         "texto": ", CUIT 20-38179634-6",
+         "negrita": false
+        }
+       ],
+       [
+        {
+         "texto": "Bianca Massarella Martínez",
+         "negrita": true
+        },
+        {
+         "texto": ", CUIT 24-42679023-7.",
+         "negrita": false
+        }
+       ]
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En adelante, denominados conjuntamente “MONITOR DE MARCAS” o los “Prestadores”.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los tres titulares participan en igualdad de condiciones en la prestación del servicio y asumen conjuntamente las obligaciones contractuales que les correspondan frente a los usuarios, sin perjuicio de las disposiciones legales aplicables y de su organización interna.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Correo electrónico oficial:",
+        "negrita": true
+       },
+       {
+        "texto": " monitordemarcas@gmail.com",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 2,
+    "titulo": "2. OBJETO Y ALCANCE DEL SERVICIO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS es una plataforma tecnológica que funciona bajo la modalidad Software as a Service (SaaS), destinada a facilitar la gestión, vigilancia y seguimiento de marcas comerciales.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El servicio está orientado principalmente a abogados, agentes de propiedad industrial, estudios jurídicos, empresas, profesionales y demás personas que administren o gestionen derechos marcarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Entre sus funcionalidades se encuentran, según las herramientas disponibles:",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "a) Monitoreo de publicaciones del Boletín de Marcas del Instituto Nacional de la Propiedad Industrial (INPI).",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "b) Identificación de posibles coincidencias y similitudes denominativas y fonéticas entre signos marcarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "c) Generación de alertas sobre publicaciones.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "d) Búsqueda y consulta de antecedentes marcarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "e) Administración y organización de carteras de marcas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "f) Consulta y seguimiento de información relacionada con expedientes, solicitudes y registros.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "g) Visualización de estados administrativos, fechas y plazos de interés.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS podrá introducir mejoras, actualizaciones y modificaciones tecnológicas, siempre que se respeten las prestaciones esenciales contratadas y los derechos legalmente reconocidos a los usuarios.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 3,
+    "titulo": "3. NATURALEZA DEL SERVICIO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS constituye una herramienta tecnológica auxiliar destinada a facilitar tareas de búsqueda, vigilancia y administración marcaria.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los resultados generados por la Plataforma tienen carácter informativo y constituyen elementos de apoyo para la evaluación profesional.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El servicio no incluye, por sí mismo, asesoramiento jurídico individualizado, representación legal, presentación de solicitudes u oposiciones ante el INPI ni gestión profesional de expedientes.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La detección de una posible coincidencia entre marcas no constituye una determinación jurídica definitiva sobre confundibilidad, registrabilidad, infracción o procedencia de una oposición.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Del mismo modo, la ausencia de coincidencias detectadas no garantiza la inexistencia de antecedentes, derechos de terceros o impedimentos registrales.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las decisiones jurídicas o comerciales adoptadas sobre la base de la información obtenida deberán considerar las circunstancias particulares de cada caso y las verificaciones correspondientes.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 4,
+    "titulo": "4. REGISTRO Y CREACIÓN DE CUENTAS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Para acceder a determinadas funcionalidades, el usuario deberá registrarse y crear una cuenta.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario se compromete a proporcionar información verdadera, exacta y actualizada.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las credenciales de acceso son personales y deberán mantenerse bajo condiciones adecuadas de confidencialidad.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Queda prohibido compartir, comercializar, transferir o facilitar el acceso a terceros no autorizados, salvo que el plan contratado permita expresamente la utilización por múltiples usuarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario deberá informar cualquier acceso no autorizado o incidente de seguridad del que tome conocimiento.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS podrá adoptar medidas razonables de verificación y protección de cuentas para prevenir usos fraudulentos o no autorizados.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario será responsable de mantener la confidencialidad de sus credenciales de acceso y de adoptar las medidas necesarias para evitar su utilización por terceros no autorizados. MONITOR DE MARCAS no será responsable por los daños o consecuencias derivados del uso indebido de las credenciales, su divulgación voluntaria o el acceso facilitado por el propio usuario, siempre que dichas circunstancias no sean imputables a incumplimientos de seguridad de los Prestadores.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 5,
+    "titulo": "5. PERÍODO DE PRUEBA GRATUITO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los nuevos usuarios podrán acceder a un período inicial de prueba gratuita de quince (15) días corridos, computados desde la activación de su cuenta.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Finalizado dicho período, el uso de la Plataforma comenzará a ser arancelado, siempre que el usuario haya aceptado expresamente la contratación de una suscripción paga.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El importe correspondiente a los días comprendidos entre la finalización del período de prueba y el último día del mes calendario será calculado de manera proporcional al precio del plan contratado. El importe proporcional se determinará dividiendo el precio mensual del plan contratado por la cantidad de días calendario del mes correspondiente y multiplicando el resultado por los días de utilización posteriores al período gratuito.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Dicho importe no será exigible de forma inmediata, sino que se acumulará y se incluirá en el primer pago mensual correspondiente al mes calendario siguiente.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "A partir de entonces, la suscripción se facturará por períodos mensuales completos, desde el día primero (1.º) hasta el último día de cada mes.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La creación de una cuenta gratuita no implica obligación de contratar una suscripción paga ni genera deuda alguna. La continuidad del servicio una vez finalizado el período gratuito requerirá la aceptación expresa de las condiciones comerciales correspondientes.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 6,
+    "titulo": "6. PLANES Y SUSCRIPCIONES",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS ofrece planes de suscripción mensual, cuyas características, funcionalidades y precios serán informados previamente al usuario.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La contratación de un plan habilitará el acceso a las prestaciones incluidas en él, de acuerdo con las condiciones vigentes.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los períodos mensuales se computarán por mes calendario, desde el día primero (1.º) hasta el último día del mes correspondiente.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La suscripción paga comenzará una vez finalizado el período de prueba gratuita de quince (15) días corridos, previa aceptación expresa del usuario. El importe proporcional correspondiente al mes de inicio se acumulará a la primera mensualidad del mes calendario siguiente, conforme a lo establecido en la cláusula 5.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los precios deberán informarse de manera clara, incluyendo los impuestos que correspondan.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La contratación no estará sujeta a permanencia mínima obligatoria, salvo que se ofrezca una modalidad diferente, expresamente informada y aceptada.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 7,
+    "titulo": "7. RENOVACIÓN AUTOMÁTICA",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La suscripción tendrá carácter mensual y se renovará automáticamente el primer día de cada mes calendario, salvo cancelación voluntaria del usuario o baja por falta de pago.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La renovación automática implica la continuidad del servicio contratado y no supone autorización para efectuar débitos automáticos.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario podrá solicitar la cancelación de su suscripción conforme al procedimiento establecido en estos Términos y Condiciones.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS deberá informar de manera clara las condiciones de renovación, el precio aplicable y los mecanismos disponibles para cancelar el servicio.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 8,
+    "titulo": "8. FORMA DE PAGO Y VENCIMIENTO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El pago de la suscripción se realizará mensualmente mediante transferencia bancaria al alias oficialmente asignado e informado por MONITOR DE MARCAS.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El vencimiento operará el día diez (10) de cada mes calendario.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La facturación será emitida por el titular de MONITOR DE MARCAS que reciba el pago correspondiente, utilizando sus propios datos fiscales y conforme a la normativa tributaria vigente.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La identidad del emisor de la factura y sus datos fiscales serán informados al usuario mediante el comprobante correspondiente.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La circunstancia de que la facturación sea emitida por uno de los titulares no modifica la participación conjunta de Delfina Álvarez, Rodrigo Muñoz y Bianca Massarella Martínez en la prestación del servicio.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS no realiza débitos automáticos. La eventual incorporación de otros medios de pago será informada oportunamente.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 9,
+    "titulo": "9. FALTA DE PAGO Y BAJA AUTOMÁTICA",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Vencido el plazo de pago del día diez (10), el usuario dispondrá de un período adicional de tolerancia de cinco (5) días corridos.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Si al finalizar el día quince (15) el pago correspondiente no hubiera sido acreditado, la suscripción se dará de baja automáticamente a partir del día dieciséis (16).",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En tal supuesto:",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "a) Se desactivará el acceso a las funcionalidades pagas de la Plataforma.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "b) Se interrumpirá el servicio de monitoreo y generación de alertas asociado a la suscripción.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "c) El usuario podrá contratar nuevamente el servicio conforme a los planes y condiciones vigentes.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "d) La información almacenada será tratada conforme a la Política de Privacidad y los procedimientos de conservación y eliminación aplicables.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS comunicará al usuario el vencimiento y la eventual baja mediante los canales de contacto registrados.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Si el usuario hubiera realizado el pago dentro del plazo previsto, pero existieran demoras en su identificación o acreditación no imputables a él, podrá presentar el comprobante correspondiente para su verificación y regularización.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario reconoce y acepta que la falta de pago dentro de los plazos establecidos producirá la baja automática de la suscripción y la eliminación definitiva de las carteras marcarias, marcas monitoreadas, configuraciones y demás información operativa incorporada a la Plataforma.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En consecuencia, MONITOR DE MARCAS y sus Prestadores no serán responsables por la pérdida de dicha información, la interrupción del monitoreo, la falta de recepción de alertas ni por los daños o perjuicios derivados de la baja automática ocasionada por el incumplimiento de pago del usuario, siempre que la baja y la eliminación se hayan efectuado conforme a las condiciones contractuales informadas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En caso de falta de pago de la primera mensualidad, la baja automática comprenderá también el importe proporcional acumulado correspondiente al período posterior a la prueba gratuita, sin que se generen deudas exigibles, intereses ni penalidades por dichos conceptos.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 10,
+    "titulo": "10. MODIFICACIÓN DE PRECIOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS podrá actualizar los precios de sus planes de suscripción.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Toda modificación será comunicada previamente al usuario de manera clara, indicando el nuevo importe y la fecha de entrada en vigencia.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las modificaciones no afectarán retroactivamente los períodos ya abonados.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario podrá cancelar la suscripción antes de la aplicación del nuevo precio, sin perjuicio de los demás derechos reconocidos por la legislación vigente.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 11,
+    "titulo": "11. LICENCIA DE USO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La contratación de MONITOR DE MARCAS otorga al usuario una licencia limitada, no exclusiva, no transferible y sujeta a las condiciones del plan contratado.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La licencia autoriza exclusivamente la utilización de las funcionalidades habilitadas y no implica transferencia de titularidad sobre el software ni sus componentes.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario no podrá sublicenciar, revender o comercializar accesos a la Plataforma sin autorización expresa de los Prestadores.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 12,
+    "titulo": "12. PROPIEDAD INTELECTUAL",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los derechos de propiedad intelectual correspondientes a los elementos originales de MONITOR DE MARCAS pertenecen a sus respectivos titulares, conforme a la legislación aplicable.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Entre ellos se encuentran:",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "lista",
+      "numerada": true,
+      "items": [
+       [
+        {
+         "texto": "Software y código fuente.",
+         "negrita": false
+        }
+       ],
+       [
+        {
+         "texto": "Algoritmos y desarrollos tecnológicos.",
+         "negrita": false
+        }
+       ],
+       [
+        {
+         "texto": "Interfaces y diseños originales.",
+         "negrita": false
+        }
+       ],
+       [
+        {
+         "texto": "Estructuras originales de bases de datos.",
+         "negrita": false
+        }
+       ],
+       [
+        {
+         "texto": "Elementos gráficos y contenidos propios.",
+         "negrita": false
+        }
+       ],
+       [
+        {
+         "texto": "Documentación técnica.",
+         "negrita": false
+        }
+       ],
+       [
+        {
+         "texto": "Signos distintivos.",
+         "negrita": false
+        }
+       ],
+       [
+        {
+         "texto": "Actualizaciones, adaptaciones y mejoras.",
+         "negrita": false
+        }
+       ]
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Queda prohibida su reproducción, distribución, comercialización, modificación o explotación no autorizada, salvo los supuestos expresamente permitidos por la legislación.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "También se prohíbe la extracción masiva no autorizada de información mediante herramientas automatizadas, la vulneración de sistemas de seguridad y cualquier utilización ilícita de la Plataforma.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La información pública proveniente del INPI conserva su naturaleza jurídica y no se convierte en propiedad exclusiva de MONITOR DE MARCAS por el solo hecho de ser incorporada, organizada o procesada mediante sus herramientas.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 13,
+    "titulo": "13. INFORMACIÓN Y CARTERAS DE LOS USUARIOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los usuarios podrán incorporar información relacionada con marcas, expedientes, titulares, clientes y carteras profesionales.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La titularidad de dicha información y de los derechos que correspondan sobre ella permanecerá en cabeza de sus respectivos titulares.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS no adquiere derechos de propiedad sobre las carteras marcarias incorporadas por sus usuarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La información será procesada exclusivamente en la medida necesaria para prestar el servicio, ejecutar las funcionalidades contratadas, garantizar su funcionamiento y cumplir las finalidades legítimas informadas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario deberá contar con las autorizaciones o habilitaciones legales necesarias para incorporar información personal de terceros cuando corresponda.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los Prestadores deberán respetar la confidencialidad de la información y adoptar medidas razonables de seguridad y control de acceso.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 14,
+    "titulo": "14. SEGURIDAD Y CONFIDENCIALIDAD",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS reconoce la importancia de proteger la información profesional, comercial y marcaria incorporada por sus usuarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La Plataforma aplica medidas técnicas y organizativas de seguridad destinadas a proteger la confidencialidad, integridad y disponibilidad de la información, conforme a los mecanismos efectivamente implementados.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Estas medidas tienen por finalidad prevenir accesos no autorizados, pérdidas, alteraciones, divulgaciones indebidas y otros incidentes que puedan comprometer la información.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El acceso a los datos se limitará a las personas y proveedores autorizados que deban intervenir para la prestación, mantenimiento, administración o seguridad del servicio.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La información incorporada por los usuarios no será comercializada ni utilizada para finalidades ajenas a las legítimamente informadas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los Prestadores mantendrán las obligaciones de confidencialidad que correspondan incluso después de finalizada la relación contractual.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 15,
+    "titulo": "15. FUNCIONAMIENTO DE LAS ALERTAS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las herramientas de monitoreo y comparación marcaria de MONITOR DE MARCAS están diseñadas para facilitar la identificación de publicaciones potencialmente relevantes.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los resultados dependen de diversos factores, incluidos los parámetros de búsqueda, los mecanismos tecnológicos utilizados, la información disponible y la actualización de las fuentes consultadas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Por ello, pueden existir coincidencias detectadas que no representen conflictos jurídicos efectivos, así como coincidencias potencialmente relevantes que no sean identificadas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS no garantiza la detección exhaustiva de todas las similitudes marcarias.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las alertas constituyen herramientas auxiliares de vigilancia y no representan dictámenes jurídicos ni determinaciones definitivas sobre confundibilidad, registrabilidad o procedencia de una oposición.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario deberá evaluar los resultados y verificar la información relevante mediante las fuentes oficiales correspondientes.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los Prestadores se comprometen a brindar el servicio con diligencia razonable, de conformidad con las prestaciones contratadas y las obligaciones legales aplicables.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 16,
+    "titulo": "16. PLAZOS Y ESTADOS ADMINISTRATIVOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las fechas, estados de expedientes y referencias a plazos visualizadas en la Plataforma tienen carácter informativo y auxiliar.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Su disponibilidad y exactitud pueden depender de la actualización de fuentes oficiales y de los procesos tecnológicos de recopilación y tratamiento de información.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los usuarios deberán verificar de manera independiente los plazos jurídicamente relevantes y las actuaciones administrativas que correspondan.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La Plataforma no reemplaza las publicaciones, notificaciones ni mecanismos oficiales de consulta del INPI.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Esta disposición no excluye la responsabilidad que legalmente pudiera corresponder a los Prestadores por incumplimientos imputables.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 17,
+    "titulo": "17. DISPONIBILIDAD DEL SERVICIO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS procurará mantener condiciones razonables de disponibilidad, continuidad y funcionamiento.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Podrán realizarse tareas de mantenimiento, actualización, corrección de errores y mejoras tecnológicas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El servicio podrá experimentar interrupciones programadas o imprevistas derivadas de factores técnicos, conectividad, infraestructura, proveedores externos, incidentes de seguridad o acontecimientos de fuerza mayor.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Cuando resulte razonablemente posible, se informarán las interrupciones programadas que puedan afectar significativamente la utilización de la Plataforma.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "No se garantiza disponibilidad permanente e ininterrumpida ni un porcentaje específico de funcionamiento, salvo compromiso contractual expreso.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los Prestadores adoptarán medidas razonables para atender incidentes y restablecer el servicio conforme a las obligaciones aplicables.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 18,
+    "titulo": "18. RESPONSABILIDAD",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS constituye una herramienta tecnológica auxiliar de búsqueda, vigilancia, seguimiento y administración marcaria. La Plataforma se proporciona conforme a sus funcionalidades disponibles y a las condiciones técnicas propias de su funcionamiento.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los Prestadores no garantizan que la información, resultados, alertas, coincidencias, antecedentes, fechas, estados administrativos o demás datos visualizados sean completos, exactos, exhaustivos, permanentemente actualizados o estén libres de errores, omisiones, interrupciones o inconsistencias.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En particular, MONITOR DE MARCAS no garantiza la detección de la totalidad de las marcas idénticas, similares o potencialmente confundibles, ni la identificación de todas las publicaciones relevantes, antecedentes, oposiciones o vencimientos. Podrán producirse falsos positivos, falsos negativos, demoras en la actualización de información y diferencias respecto de las fuentes oficiales.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario reconoce que la Plataforma no constituye una fuente oficial de información registral ni reemplaza la consulta directa del Instituto Nacional de la Propiedad Industrial (INPI), el control independiente de expedientes y publicaciones, ni la evaluación jurídica profesional.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En consecuencia, corresponde exclusivamente al usuario analizar la información obtenida, verificar su exactitud y actualidad mediante las fuentes oficiales y adoptar las decisiones jurídicas, administrativas o comerciales que considere pertinentes.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS no garantiza la registrabilidad de signos distintivos, la concesión de registros, la procedencia o el resultado de oposiciones, la inexistencia de derechos de terceros ni el éxito de ninguna actuación administrativa o judicial.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los Prestadores no asumirán responsabilidad por las consecuencias derivadas de decisiones adoptadas exclusivamente por el usuario, errores en los datos incorporados por este, utilización inadecuada de las funcionalidades, interpretaciones jurídicas propias o información incorrecta, incompleta o desactualizada proveniente de fuentes externas, cuando tales circunstancias no sean legalmente imputables a MONITOR DE MARCAS.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Asimismo, no se garantiza la disponibilidad permanente e ininterrumpida del servicio, que podrá verse afectado por tareas de mantenimiento, fallas técnicas, interrupciones de conectividad, problemas de infraestructura, servicios de terceros o acontecimientos de fuerza mayor.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En la máxima medida permitida por la legislación aplicable, los Prestadores no responderán por daños derivados de circunstancias ajenas a su control o que no les resulten jurídicamente imputables.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las presentes disposiciones no excluyen ni limitan la responsabilidad que pudiera corresponder legalmente a los Prestadores por incumplimientos propios, dolo, culpa grave, vulneración de obligaciones esenciales o cualquier otro supuesto cuya exclusión resulte jurídicamente inadmisible.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 19,
+    "titulo": "19. CANCELACIÓN VOLUNTARIA",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario podrá solicitar la cancelación de su suscripción en cualquier momento, sin obligación de permanencia mínima ni aplicación de penalidades.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Para ello, deberá comunicar su decisión a MONITOR DE MARCAS mediante WhatsApp o correo electrónico, a través de los canales oficiales informados por los Prestadores.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La cancelación tendrá efectos a partir del siguiente período mensual, salvo que el usuario solicite expresamente la baja inmediata de su cuenta.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Asimismo, la falta de pago de la mensualidad dentro de los plazos establecidos se entenderá como decisión de no continuar con el servicio, produciéndose la baja automática el día dieciséis (16) del mes correspondiente.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La baja por falta de pago no generará deudas, intereses ni penalidades por la mensualidad impaga.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS confirmará la recepción de las solicitudes de cancelación y facilitará los mecanismos adicionales que resulten legalmente obligatorios.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 20,
+    "titulo": "20. SUSPENSIÓN POR USO INDEBIDO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS podrá suspender o terminar el acceso cuando existan incumplimientos contractuales relevantes, utilización ilícita del servicio, accesos fraudulentos, vulneraciones de seguridad o conductas que comprometan gravemente la integridad de la Plataforma.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las medidas deberán resultar proporcionales a la naturaleza del incumplimiento.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Cuando corresponda, se comunicará al usuario la causa de la medida y se brindará una oportunidad razonable para subsanarla.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Podrán adoptarse medidas urgentes sin aviso previo cuando resulte necesario prevenir daños, fraudes o incidentes de seguridad.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 21,
+    "titulo": "21. CONSERVACIÓN Y RECUPERACIÓN DE INFORMACIÓN",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Producida la baja de la suscripción, MONITOR DE MARCAS procederá a la eliminación automática y definitiva de las carteras marcarias, marcas monitoreadas, configuraciones de seguimiento y demás información operativa incorporada por el usuario.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En caso de contratar nuevamente el servicio, el usuario deberá incorporar y configurar nuevamente dicha información.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Se exceptúan los datos cuya conservación resulte legalmente obligatoria y las copias de respaldo sujetas a los procedimientos técnicos de eliminación segura, que no podrán utilizarse para reactivar las carteras eliminadas.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 22,
+    "titulo": "22. PROTECCIÓN DE DATOS PERSONALES",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El tratamiento de datos personales se realizará conforme a la Ley 25.326, su reglamentación y demás normativa aplicable.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La recopilación, utilización, conservación y protección de la información personal se encuentran reguladas en la Política de Privacidad de MONITOR DE MARCAS, disponible para consulta de los usuarios.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 23,
+    "titulo": "23. CONTRATACIÓN ELECTRÓNICA Y DERECHOS DE LOS USUARIOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La contratación podrá efectuarse mediante medios electrónicos.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Cuando resulte aplicable la normativa de defensa del consumidor, se respetarán los derechos reconocidos por la Ley 24.240, el Código Civil y Comercial de la Nación y las disposiciones complementarias.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En particular, se observarán las obligaciones de información, los mecanismos de baja y el derecho de revocación en los supuestos legalmente previstos.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La Plataforma deberá poner a disposición del usuario los mecanismos de arrepentimiento y cancelación exigibles según la naturaleza de la contratación.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Ninguna disposición contractual podrá interpretarse como renuncia a derechos legalmente irrenunciables.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 24,
+    "titulo": "24. MODIFICACIONES DE LOS TÉRMINOS Y CONDICIONES",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS se reserva el derecho de modificar, actualizar o complementar los presentes Términos y Condiciones cuando lo considere necesario, incluyendo modificaciones vinculadas con el funcionamiento de la Plataforma, sus funcionalidades, condiciones comerciales, aspectos técnicos o disposiciones legales aplicables.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La versión vigente de los Términos y Condiciones estará disponible para su consulta en el sitio web y/o en la Plataforma, con indicación de la fecha de su última actualización.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Es responsabilidad de los usuarios consultar periódicamente los Términos y Condiciones publicados, a fin de mantenerse informados sobre las condiciones aplicables al servicio.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las modificaciones entrarán en vigencia a partir de la fecha indicada en la versión actualizada, sin perjuicio de las comunicaciones previas, consentimientos o aceptaciones específicas que resulten legalmente exigibles.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Cuando las modificaciones afecten sustancialmente las condiciones de contratación, las prestaciones esenciales o los derechos de los usuarios, MONITOR DE MARCAS realizará las comunicaciones correspondientes y respetará los derechos de cancelación y demás garantías legalmente aplicables.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 25,
+    "titulo": "25. SERVICIOS EDUCATIVOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS podrá ofrecer cursos, capacitaciones y otras actividades educativas relacionadas con la propiedad intelectual.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Estos servicios constituyen prestaciones independientes de la suscripción al software, salvo inclusión expresa en una oferta determinada.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las condiciones de acceso, contratación y pago de las actividades educativas se regirán por sus términos específicos.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 26,
+    "titulo": "26. LEGISLACIÓN APLICABLE Y JURISDICCIÓN",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los presentes Términos y Condiciones se rigen por las leyes de la República Argentina.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Para controversias en las que resulte jurídicamente admisible la prórroga de competencia territorial, las partes acuerdan someterse a los tribunales ordinarios competentes de la Ciudad Autónoma de Buenos Aires.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Esta estipulación no será aplicable cuando contradiga normas imperativas de competencia, disposiciones de protección al consumidor u otras normas de orden público.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 27,
+    "titulo": "27. CONTACTO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Para consultas relacionadas con el servicio, contratación, facturación, cancelaciones o estos Términos y Condiciones, el usuario podrá comunicarse mediante:",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS",
+        "negrita": true
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Sitio web: https://monitordemarcas.com.ar/",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Correo electrónico: monitordemarcas@gmail.com",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Numero de telefono: +54 9 11 3273-3848",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "privacidad": {
+  "titulo": "POLÍTICA DE PRIVACIDAD Y PROTECCIÓN DE DATOS PERSONALES",
+  "inicio": [
+   {
+    "tipo": "parrafo",
+    "partes": [
+     {
+      "texto": "MONITOR DE MARCAS",
+      "negrita": true
+     }
+    ]
+   },
+   {
+    "tipo": "parrafo",
+    "partes": [
+     {
+      "texto": "Última actualización: 13 de octubre de 2026",
+      "negrita": true
+     }
+    ]
+   }
+  ],
+  "clausulas": [
+   {
+    "numero": 1,
+    "titulo": "1. OBJETO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La presente Política de Privacidad establece las condiciones bajo las cuales MONITOR DE MARCAS recopila, utiliza, almacena, procesa, conserva y protege los datos personales relacionados con su sitio web y plataforma digital.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS reconoce la importancia de la privacidad, la confidencialidad de la información profesional y la protección de los datos personales de sus usuarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El tratamiento de información personal se realizará conforme a la Ley 25.326 de Protección de Datos Personales, su reglamentación y demás disposiciones aplicables en la República Argentina.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 2,
+    "titulo": "2. IDENTIFICACIÓN DE LOS RESPONSABLES",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS es una plataforma desarrollada y gestionada conjuntamente por:",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "lista",
+      "numerada": false,
+      "items": [
+       [
+        {
+         "texto": "Delfina Álvarez",
+         "negrita": true
+        },
+        {
+         "texto": ", CUIT: 27-41037272-5",
+         "negrita": false
+        }
+       ],
+       [
+        {
+         "texto": "Rodrigo Muñoz",
+         "negrita": true
+        },
+        {
+         "texto": ", CUIT 20-38179634-6",
+         "negrita": false
+        }
+       ],
+       [
+        {
+         "texto": "Bianca Massarella Martínez",
+         "negrita": true
+        },
+        {
+         "texto": ", CUIT 24-42679023-7.",
+         "negrita": false
+        }
+       ]
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los tres titulares intervienen conjuntamente en la administración de la Plataforma y asumen las obligaciones de protección de datos personales que correspondan a sus respectivas actividades y decisiones sobre el tratamiento.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Correo electrónico para consultas sobre privacidad:",
+        "negrita": true
+       },
+       {
+        "texto": " monitordemarcas@gmail.com",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 3,
+    "titulo": "3. DATOS PERSONALES RECOPILADOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Según las funcionalidades utilizadas, MONITOR DE MARCAS podrá recopilar y tratar las siguientes categorías de información:",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "3.1. Datos de identificación y contacto.",
+        "negrita": true
+       },
+       {
+        "texto": " Nombre, apellido, correo electrónico, datos profesionales, organización o estudio jurídico al que pertenece el usuario y otros datos proporcionados voluntariamente.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "3.2. Datos de registro y cuenta.",
+        "negrita": true
+       },
+       {
+        "texto": " Identificadores de usuario, información de autenticación, preferencias, configuraciones y datos necesarios para administrar el acceso.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "3.3. Datos comerciales y de facturación.",
+        "negrita": true
+       },
+       {
+        "texto": " Información necesaria para identificar al contratante, administrar suscripciones, verificar pagos, emitir comprobantes y cumplir obligaciones fiscales.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "3.4. Datos técnicos y de utilización.",
+        "negrita": true
+       },
+       {
+        "texto": " Direcciones IP, registros de acceso, fechas de conexión, actividad funcional y demás información técnica efectivamente recopilada para operar y proteger el servicio.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "3.5. Información marcaria.",
+        "negrita": true
+       },
+       {
+        "texto": " Denominaciones de marcas, números de acta, clases, datos de titulares, expedientes, estados, antecedentes y demás información vinculada con derechos marcarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "3.6. Información incorporada por los usuarios.",
+        "negrita": true
+       },
+       {
+        "texto": " Datos de clientes, titulares de marcas, representantes y terceros que los usuarios decidan incorporar mediante las funcionalidades disponibles.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "3.7. Comunicaciones.",
+        "negrita": true
+       },
+       {
+        "texto": " Consultas, solicitudes de soporte, reclamos y comunicaciones intercambiadas con los usuarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La recopilación de datos se limitará a aquellos que resulten adecuados, pertinentes y necesarios para las finalidades informadas.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 4,
+    "titulo": "4. FINALIDADES DEL TRATAMIENTO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los datos personales podrán ser tratados para:",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "a) Registrar y autenticar usuarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "b) Crear, configurar y administrar cuentas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "c) Habilitar el acceso a las funcionalidades contratadas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "d) Procesar búsquedas y consultas de antecedentes marcarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "e) Administrar carteras y generar alertas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "f) Gestionar planes, suscripciones, pagos y comprobantes.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "g) Brindar asistencia técnica y responder consultas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "h) Detectar accesos no autorizados, prevenir fraudes y proteger la seguridad de la Plataforma.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "i) Mantener, corregir y mejorar el funcionamiento tecnológico del servicio.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "j) Cumplir obligaciones legales, administrativas, fiscales y contractuales.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "k) Enviar comunicaciones operativas relacionadas con el funcionamiento, mantenimiento, facturación o condiciones del servicio.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "l) Remitir comunicaciones comerciales cuando exista una habilitación jurídica válida y se respeten los mecanismos de oposición o baja que correspondan.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los datos no serán utilizados para finalidades incompatibles con aquellas legítimamente informadas, salvo que exista una nueva base jurídica que autorice el tratamiento.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 5,
+    "titulo": "5. OBTENCIÓN DE LOS DATOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS podrá obtener información directamente de los usuarios al momento de registrarse, contratar, configurar sus cuentas, utilizar funcionalidades o comunicarse con el servicio.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "También podrá procesar información incorporada por los usuarios y datos provenientes de publicaciones o fuentes oficiales vinculadas con la actividad marcaria.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La circunstancia de que determinada información sea públicamente accesible no implica que cualquier tratamiento posterior de datos personales quede excluido de las obligaciones legales aplicables.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 6,
+    "titulo": "6. FUNDAMENTOS JURÍDICOS DEL TRATAMIENTO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El tratamiento de datos personales se realizará cuando exista una habilitación jurídica suficiente conforme a la legislación argentina.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Según el caso, podrá sustentarse en el consentimiento válido del titular, las excepciones legales al consentimiento, el cumplimiento de obligaciones normativas o las demás circunstancias expresamente admitidas por el régimen aplicable.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La información necesaria para ejecutar la relación contractual será identificada y tratada conforme a los requisitos de la Ley 25.326.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Cuando una finalidad específica requiera consentimiento, este deberá ser libre, expreso e informado, en las condiciones legalmente exigibles.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La aceptación de los Términos y Condiciones no será interpretada como autorización ilimitada para cualquier tratamiento de datos personales.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 7,
+    "titulo": "7. INFORMACIÓN DE TERCEROS INCORPORADA POR LOS USUARIOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS permite a sus usuarios incorporar, organizar y administrar información relativa a marcas, expedientes, titulares, clientes, representantes y terceros.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Cada usuario será responsable de la información que incorpore a la Plataforma, incluyendo su exactitud, actualización, legitimidad, procedencia y las autorizaciones o habilitaciones legales necesarias para su recopilación, utilización y tratamiento.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El usuario declara que cuenta con una base jurídica suficiente para incorporar los datos personales de terceros y que su utilización mediante MONITOR DE MARCAS no vulnera derechos de terceros, obligaciones de confidencialidad ni disposiciones legales aplicables.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS no tiene la obligación general de verificar previamente la exactitud, legitimidad, titularidad o procedencia de cada dato incorporado por los usuarios, sin perjuicio de las obligaciones que legalmente le correspondan.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los Prestadores no serán responsables por reclamos, daños, infracciones o controversias derivados exclusivamente de información falsa, incorrecta, desactualizada, ilícita o incorporada sin las autorizaciones correspondientes por los usuarios, siempre que tales circunstancias no sean imputables a una conducta propia de MONITOR DE MARCAS.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Cuando MONITOR DE MARCAS procese datos personales por cuenta de sus usuarios, lo hará exclusivamente para las finalidades vinculadas con la prestación del servicio y conforme a las condiciones contractuales y legales aplicables.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los usuarios deberán abstenerse de incorporar información cuyo tratamiento resulte ilícito o incompatible con las finalidades de la Plataforma.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La presente cláusula no excluye las obligaciones propias de MONITOR DE MARCAS en materia de seguridad, confidencialidad y protección de datos personales conforme a la legislación vigente.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 8,
+    "titulo": "8. SEGURIDAD DE LA INFORMACIÓN",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS reconoce que la información incorporada por sus usuarios puede tener carácter profesional, comercial o confidencial.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Por ello, adopta medidas técnicas y organizativas razonables destinadas a proteger la confidencialidad, integridad y disponibilidad de la información, conforme a los mecanismos efectivamente implementados.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Estas medidas están orientadas a prevenir accesos no autorizados, pérdidas, alteraciones, divulgaciones indebidas, destrucción o utilización ilegítima de información.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El acceso a los datos se limitará a las personas autorizadas que deban intervenir para la prestación, administración, mantenimiento o seguridad del servicio.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La Plataforma procurará mantener procedimientos adecuados de control de acceso, gestión de credenciales, protección de infraestructura y atención de incidentes.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Ningún sistema tecnológico puede garantizar la eliminación absoluta de todos los riesgos de seguridad.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Esta circunstancia no libera a los Prestadores del cumplimiento de sus obligaciones legales de protección y seguridad de los datos personales.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 9,
+    "titulo": "9. CONFIDENCIALIDAD DE LAS CARTERAS MARCARIAS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las carteras marcarias, los datos de clientes y la información profesional incorporada por los usuarios serán tratados con criterios de confidencialidad y acceso restringido.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS no adquiere derechos de propiedad sobre las carteras incorporadas por sus usuarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La información será utilizada exclusivamente para las finalidades necesarias para la prestación del servicio y aquellas legítimamente informadas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los Prestadores no comercializarán las carteras de los usuarios ni utilizarán sus datos para finalidades ajenas a la relación contractual sin una habilitación jurídica válida.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los deberes de confidencialidad subsistirán después de la finalización de la relación contractual en los términos legalmente aplicables.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 10,
+    "titulo": "10. PROVEEDORES TECNOLÓGICOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Para prestar el servicio, MONITOR DE MARCAS podrá recurrir a proveedores de infraestructura, alojamiento, mantenimiento, comunicaciones y otros servicios tecnológicos necesarios.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El acceso de estos proveedores a datos personales deberá limitarse a las operaciones justificadas por sus funciones y quedar sujeto a las obligaciones legales y contractuales correspondientes.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Cuando intervengan prestadores que procesen información por cuenta de MONITOR DE MARCAS, deberán establecerse las condiciones de tratamiento, seguridad y confidencialidad que correspondan.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La identidad y características de los proveedores efectivamente utilizados deberán verificarse y ponerse a disposición de los usuarios cuando corresponda legalmente.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 11,
+    "titulo": "11. TRANSFERENCIAS INTERNACIONALES",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En caso de que la prestación del servicio involucre almacenamiento, acceso o transferencia internacional de datos personales, MONITOR DE MARCAS verificará el cumplimiento de las condiciones establecidas por la legislación argentina.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las transferencias a jurisdicciones que no ofrezcan niveles adecuados de protección deberán contar con alguna de las habilitaciones o garantías legalmente admitidas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Esta disposición no supone que actualmente se realicen transferencias internacionales, circunstancia que deberá confirmarse conforme a la infraestructura tecnológica efectivamente utilizada.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 12,
+    "titulo": "12. CONSERVACIÓN DE DATOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los datos personales serán conservados durante el tiempo necesario para cumplir las finalidades que justificaron su recopilación y tratamiento.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los períodos de conservación podrán depender de la vigencia de la cuenta, la relación contractual, las obligaciones fiscales, los requerimientos legales, la seguridad del servicio y la necesidad legítima de atender controversias.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Una vez finalizadas las finalidades correspondientes y vencidos los plazos de conservación aplicables, los datos deberán eliminarse, anonimizarse o someterse a otro tratamiento legalmente admisible.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS notificará al usuario mediante correo electrónico, a la dirección registrada en su cuenta, sobre la baja de su suscripción y sus consecuencias.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En dicha comunicación se informará que la baja implica la eliminación automática y definitiva de las carteras marcarias, marcas monitoreadas, configuraciones de seguimiento y demás información asociada a las funcionalidades contratadas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Asimismo, se informará que, en caso de contratar nuevamente el servicio, el usuario deberá incorporar y configurar nuevamente toda la información necesaria para su utilización.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En los supuestos de falta de pago, MONITOR DE MARCAS enviará un aviso previo al vencimiento del período de tolerancia, indicando que, de no regularizarse el pago hasta el día quince (15), la suscripción será dada de baja automáticamente el día dieciséis (16), con las consecuencias anteriormente indicadas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La eliminación de información se realizará sin perjuicio de los datos cuya conservación resulte legalmente obligatoria.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 13,
+    "titulo": "13. BAJA AUTOMÁTICA Y TRATAMIENTO DE DATOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Producida la baja de la suscripción, ya sea por solicitud voluntaria del usuario o por falta de pago, MONITOR DE MARCAS procederá a la eliminación automática y definitiva de las carteras marcarias, marcas monitoreadas, configuraciones de seguimiento y demás información operativa incorporada por el usuario.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "En caso de contratar nuevamente el servicio, el usuario deberá incorporar y configurar nuevamente dicha información, sin posibilidad de recuperar las carteras anteriormente eliminadas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Se exceptúan los datos cuya conservación resulte legalmente obligatoria y las copias de respaldo sujetas a los procedimientos técnicos de eliminación segura, que no podrán utilizarse para reactivar las carteras eliminadas.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 14,
+    "titulo": "14. DERECHOS DE LOS TITULARES DE DATOS",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Los titulares de datos personales podrán ejercer los derechos de acceso, rectificación, actualización, supresión y demás derechos reconocidos por la legislación aplicable.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las solicitudes podrán dirigirse al siguiente correo electrónico: monitordemarcas@gmail.com",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS podrá solicitar información necesaria para verificar la identidad del solicitante y evitar la divulgación indebida de datos de terceros.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las solicitudes de acceso serán atendidas dentro del plazo legal de diez (10) días corridos.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las solicitudes procedentes de rectificación, actualización o supresión serán atendidas dentro del plazo máximo de cinco (5) días hábiles, sin perjuicio de las excepciones legalmente previstas.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El derecho de acceso podrá ejercerse gratuitamente en los intervalos establecidos por la legislación vigente.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La supresión podrá encontrarse limitada cuando exista una obligación legal de conservación o cuando concurra otra circunstancia legítima expresamente prevista por la normativa.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 15,
+    "titulo": "15. AUTORIDAD DE CONTROL",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La Agencia de Acceso a la Información Pública (AAIP), en su carácter de autoridad de aplicación de la Ley 25.326, tiene atribuciones para atender denuncias y reclamos relacionados con incumplimientos de la normativa de protección de datos personales.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 16,
+    "titulo": "16. COOKIES Y TECNOLOGÍAS SIMILARES",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "El sitio web y la aplicación podrán utilizar cookies u otras tecnologías técnicas de almacenamiento o identificación, según su implementación efectiva.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las cookies estrictamente necesarias podrán utilizarse para permitir funciones de autenticación, mantenimiento de sesiones, seguridad y operación del servicio.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Si se implementan herramientas analíticas, publicitarias o de seguimiento no esenciales, se informarán sus características, finalidades y mecanismos de configuración o consentimiento cuando correspondan.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS no atribuye mediante esta Política la utilización de herramientas específicas que no hayan sido confirmadas.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 17,
+    "titulo": "17. COMUNICACIONES COMERCIALES",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS podrá remitir comunicaciones relacionadas con novedades, funcionalidades, planes o servicios cuando exista una habilitación legal suficiente.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las comunicaciones comerciales deberán identificar adecuadamente a su emisor y permitir el ejercicio de los derechos de oposición, retiro del consentimiento o exclusión de las listas de envío, según corresponda.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La decisión de no recibir comunicaciones promocionales no afectará necesariamente la recepción de avisos operativos indispensables para mantener la relación contractual.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 18,
+    "titulo": "18. MENORES DE EDAD",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS se encuentra orientado principalmente a usuarios profesionales y organizaciones.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La Plataforma no está específicamente destinada a menores de edad.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Cuando resulte necesario tratar datos personales de menores, deberán respetarse las condiciones y garantías previstas por la legislación aplicable.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 19,
+    "titulo": "19. INCIDENTES DE SEGURIDAD",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Ante la detección de incidentes que pudieran comprometer datos personales, MONITOR DE MARCAS adoptará medidas razonables de investigación, contención, mitigación y recuperación.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Se evaluará la necesidad de efectuar comunicaciones a los afectados o a las autoridades competentes conforme a las obligaciones legales aplicables y a las características del incidente.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Las comunicaciones deberán procurar ofrecer información clara sobre el incidente y las medidas de protección pertinentes, en la medida en que resulte posible y corresponda legalmente.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 20,
+    "titulo": "20. MODIFICACIONES DE LA POLÍTICA",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS podrá modificar o actualizar la presente Política de Privacidad para adecuarla a cambios normativos, tecnológicos, operativos o relacionados con el tratamiento de datos personales.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "La versión vigente estará disponible en el sitio web y/o en la Plataforma, con indicación de su última actualización.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Será responsabilidad de los usuarios consultar periódicamente la Política de Privacidad para mantenerse informados sobre sus disposiciones.",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Cuando las modificaciones impliquen cambios sustanciales en las finalidades o condiciones del tratamiento de datos personales, MONITOR DE MARCAS realizará las comunicaciones correspondientes y solicitará los consentimientos que resulten legalmente exigibles.",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "numero": 21,
+    "titulo": "21. CONTACTO",
+    "bloques": [
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Para consultas, solicitudes o reclamos relacionados con privacidad y protección de datos personales:",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "MONITOR DE MARCAS",
+        "negrita": true
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Sitio web: https://monitordemarcas.com.ar/",
+        "negrita": false
+       }
+      ]
+     },
+     {
+      "tipo": "parrafo",
+      "partes": [
+       {
+        "texto": "Correo electrónico: monitordemarcas@gmail.com",
+        "negrita": false
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

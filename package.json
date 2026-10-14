@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc --noEmit && vite build",
+    "build": "tsc --noEmit && vite build && vite build --mode terminos && vite build --mode privacidad",
     "test": "vitest run",
-    "datos": "..\\marcas-app-backend\\.venv\\Scripts\\python.exe scripts/generar_datos.py && ..\\marcas-app-backend\\.venv\\Scripts\\python.exe scripts/generar_casos.py"
+    "datos": "..\\marcas-app-backend\\.venv\\Scripts\\python.exe scripts/generar_datos.py && ..\\marcas-app-backend\\.venv\\Scripts\\python.exe scripts/generar_casos.py",
+    "legales": "py scripts/generar_legales.py"
   },
   "dependencies": {
     "react": "^19.1.0",

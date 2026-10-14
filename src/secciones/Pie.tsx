@@ -1,7 +1,8 @@
 import { Isotipo } from "../Isotipo";
-import { URL_FORMULARIO, URL_SISTEMA } from "../piezas";
+import { enlaceInterno, LEGALES, URL_FORMULARIO, URL_SISTEMA, type Legal } from "../piezas";
 
-export function Pie() {
+/** `inicio` is the way back to the landing; `actual` marks the legal page being read. */
+export function Pie({ inicio = "", actual }: { inicio?: string; actual?: Legal }) {
   return (
     <footer className="pie">
       <div className="marco pie-fila">
@@ -13,15 +14,26 @@ export function Pie() {
           </div>
         </div>
         <nav className="pie-enlaces" aria-label="Pie">
-          <a href="#embudo">Cómo trabaja</a>
-          <a href="#cotejo">El cotejo</a>
-          <a href="#alerta">Las alertas</a>
+          <a href={enlaceInterno(`${inicio}#embudo`)}>Cómo trabaja</a>
+          <a href={enlaceInterno(`${inicio}#cotejo`)}>El cotejo</a>
+          <a href={enlaceInterno(`${inicio}#alerta`)}>Las alertas</a>
           <a href={URL_FORMULARIO} target="_blank" rel="noopener noreferrer">
             Solicitar demo
           </a>
           <a href={URL_SISTEMA}>Ingresar</a>
         </nav>
       </div>
+      <nav className="pie-legales" aria-label="Legales">
+        {(Object.keys(LEGALES) as Legal[]).map((clave) => (
+          <a
+            key={clave}
+            href={enlaceInterno(inicio + LEGALES[clave].ruta)}
+            aria-current={clave === actual ? "page" : undefined}
+          >
+            {LEGALES[clave].nombre}
+          </a>
+        ))}
+      </nav>
     </footer>
   );
 }

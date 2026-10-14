@@ -1792,6 +1792,255 @@ h2 {
   color: var(--tinta);
 }
 
+.pie-legales {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 28px;
+  margin: 28px var(--g) 0;
+  padding-top: 20px;
+  border-top: 1px solid var(--linea-fina);
+  font-size: 14px;
+  color: var(--suave);
+}
+
+.pie-legales a {
+  transition: color 0.2s ease;
+}
+
+.pie-legales a:hover,
+.pie-legales a[aria-current="page"] {
+  color: var(--tinta);
+}
+
+/* ─── Terms and privacy: the text keeps a reading measure on the left, the clause index rides the right edge ─── */
+
+.legal {
+  padding: calc(var(--cabecera) + clamp(48px, 6vw, 96px)) 0 clamp(96px, 10vw, 160px);
+  font-size: clamp(16px, 0.35vw + 12px, 18px);
+}
+
+.legal-rejilla {
+  display: grid;
+  grid-template-columns: minmax(0, 60ch) minmax(48px, 1fr) minmax(240px, 300px);
+  grid-template-areas:
+    "cabeza . indice"
+    "texto . indice";
+  align-items: start;
+}
+
+.legal-cabeza {
+  grid-area: cabeza;
+  padding-bottom: 40px;
+  border-bottom: 1px solid var(--linea);
+}
+
+.legal-cabeza h1 {
+  font-family: var(--f-titulo);
+  font-size: clamp(28px, 2.6vw + 12px, 46px);
+  font-weight: 600;
+  line-height: 1.12;
+  letter-spacing: -0.005em;
+  color: var(--tinta);
+  text-wrap: balance;
+}
+
+.legal-datos {
+  display: grid;
+  gap: 4px;
+  margin-top: 20px;
+  font-size: 15px;
+  color: var(--texto-2);
+}
+
+.legal-datos strong {
+  font-weight: 600;
+}
+
+.legal-texto {
+  grid-area: texto;
+}
+
+.legal-clausula {
+  padding-top: 48px;
+  scroll-margin-top: calc(var(--cabecera) + 24px);
+}
+
+.legal-clausula h2 {
+  max-width: none;
+  margin-bottom: 18px;
+  font-family: var(--f-titulo);
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: 0.02em;
+  color: var(--tinta);
+  text-wrap: pretty;
+}
+
+.legal-clausula p,
+.legal-lista {
+  line-height: 1.7;
+  text-wrap: pretty;
+}
+
+.legal-clausula > * + * {
+  margin-top: 14px;
+}
+
+.legal-clausula > h2 + * {
+  margin-top: 0;
+}
+
+.legal-clausula strong {
+  font-weight: 600;
+  color: var(--tinta);
+}
+
+.legal-lista {
+  padding-left: 1.5em;
+}
+
+ol.legal-lista {
+  list-style: decimal;
+}
+
+ul.legal-lista {
+  list-style: disc;
+}
+
+.legal-lista li + li {
+  margin-top: 6px;
+}
+
+.legal-lista li::marker {
+  color: var(--suave);
+}
+
+.legal-enlace {
+  color: var(--azul);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: color-mix(in srgb, var(--azul) 40%, transparent);
+  text-underline-offset: 3px;
+  overflow-wrap: anywhere;
+  transition: text-decoration-color 0.2s ease;
+}
+
+.legal-enlace:hover {
+  text-decoration-color: currentColor;
+}
+
+.legal-indice {
+  grid-area: indice;
+  position: sticky;
+  top: calc(var(--cabecera) + 32px);
+  max-height: calc(100vh - var(--cabecera) - 64px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 2px 4px 8px;
+}
+
+.legal-indice-boton {
+  display: none;
+}
+
+.legal-indice-rotulo {
+  margin-bottom: 14px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--suave);
+}
+
+.legal-indice-lista {
+  border-left: 1px solid var(--linea);
+}
+
+.legal-indice-lista a {
+  display: block;
+  margin-left: -1px;
+  padding: 5px 0 5px 16px;
+  border-left: 2px solid transparent;
+  font-size: 12.5px;
+  font-weight: 500;
+  line-height: 1.35;
+  letter-spacing: 0.01em;
+  color: var(--suave);
+  transition:
+    color 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.legal-indice-lista a:hover {
+  color: var(--tinta);
+}
+
+.legal-indice-lista a[aria-current="location"] {
+  border-left-color: var(--azul);
+  color: var(--azul);
+}
+
+@media (max-width: 1100px) {
+  .legal-rejilla {
+    grid-template-columns: minmax(0, 60ch);
+    grid-template-areas:
+      "cabeza"
+      "indice"
+      "texto";
+  }
+
+  .legal-indice {
+    position: static;
+    max-height: none;
+    overflow: visible;
+    margin-top: 28px;
+    padding: 0;
+  }
+
+  .legal-indice-rotulo {
+    display: none;
+  }
+
+  .legal-indice-boton {
+    display: inline-flex;
+  }
+
+  .legal-indice-lista {
+    display: none;
+    margin-top: 18px;
+  }
+
+  .legal-indice.abierto .legal-indice-lista {
+    display: block;
+  }
+
+  .legal-indice-lista a {
+    padding-block: 12px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 600px) {
+  .legal-clausula {
+    padding-top: 40px;
+  }
+}
+
+@media print {
+  .cabecera,
+  .legal-indice,
+  .pie {
+    display: none;
+  }
+
+  .legal {
+    padding: 0;
+  }
+
+  .legal-enlace {
+    color: inherit;
+  }
+}
+
 /* ─── Narrower screens ─── */
 
 @media (max-width: 1240px) {
