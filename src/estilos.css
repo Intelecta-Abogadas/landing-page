@@ -1812,24 +1812,14 @@ h2 {
   color: var(--tinta);
 }
 
-/* ─── Terms and privacy: the text keeps a reading measure on the left, the clause index rides the right edge ─── */
+/* ─── Terms and privacy: the text runs the full width of the frame ─── */
 
 .legal {
   padding: calc(var(--cabecera) + clamp(48px, 6vw, 96px)) 0 clamp(96px, 10vw, 160px);
   font-size: clamp(16px, 0.35vw + 12px, 18px);
 }
 
-.legal-rejilla {
-  display: grid;
-  grid-template-columns: minmax(0, 60ch) minmax(48px, 1fr) minmax(240px, 300px);
-  grid-template-areas:
-    "cabeza . indice"
-    "texto . indice";
-  align-items: start;
-}
-
 .legal-cabeza {
-  grid-area: cabeza;
   padding-bottom: 40px;
   border-bottom: 1px solid var(--linea);
 }
@@ -1854,10 +1844,6 @@ h2 {
 
 .legal-datos strong {
   font-weight: 600;
-}
-
-.legal-texto {
-  grid-area: texto;
 }
 
 .legal-clausula {
@@ -1930,93 +1916,8 @@ ul.legal-lista {
   text-decoration-color: currentColor;
 }
 
-.legal-indice {
-  grid-area: indice;
-  position: sticky;
-  top: calc(var(--cabecera) + 32px);
-  max-height: calc(100vh - var(--cabecera) - 64px);
-  overflow-y: auto;
-  overscroll-behavior: contain;
-  padding: 2px 4px 8px;
-}
-
-.legal-indice-boton {
-  display: none;
-}
-
-.legal-indice-rotulo {
-  margin-bottom: 14px;
-  font-size: 13px;
-  font-weight: 600;
-  color: var(--suave);
-}
-
-.legal-indice-lista {
-  border-left: 1px solid var(--linea);
-}
-
-.legal-indice-lista a {
-  display: block;
-  margin-left: -1px;
-  padding: 5px 0 5px 16px;
-  border-left: 2px solid transparent;
-  font-size: 12.5px;
-  font-weight: 500;
-  line-height: 1.35;
-  letter-spacing: 0.01em;
-  color: var(--suave);
-  transition:
-    color 0.2s ease,
-    border-color 0.2s ease;
-}
-
-.legal-indice-lista a:hover {
-  color: var(--tinta);
-}
-
-.legal-indice-lista a[aria-current="location"] {
-  border-left-color: var(--azul);
-  color: var(--azul);
-}
-
-@media (max-width: 1100px) {
-  .legal-rejilla {
-    grid-template-columns: minmax(0, 60ch);
-    grid-template-areas:
-      "cabeza"
-      "indice"
-      "texto";
-  }
-
-  .legal-indice {
-    position: static;
-    max-height: none;
-    overflow: visible;
-    margin-top: 28px;
-    padding: 0;
-  }
-
-  .legal-indice-rotulo {
-    display: none;
-  }
-
-  .legal-indice-boton {
-    display: inline-flex;
-  }
-
-  .legal-indice-lista {
-    display: none;
-    margin-top: 18px;
-  }
-
-  .legal-indice.abierto .legal-indice-lista {
-    display: block;
-  }
-
-  .legal-indice-lista a {
-    padding-block: 12px;
-    font-size: 14px;
-  }
+.legal-entero {
+  white-space: nowrap;
 }
 
 @media (max-width: 600px) {
@@ -2027,7 +1928,6 @@ ul.legal-lista {
 
 @media print {
   .cabecera,
-  .legal-indice,
   .pie {
     display: none;
   }
