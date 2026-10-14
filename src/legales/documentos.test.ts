@@ -32,9 +32,10 @@ describe("el texto del estudio", () => {
     }
   });
 
-  it("escribe cada CUIT con sus guiones y no deja ninguno sin formato", () => {
+  it("escribe cada CUIT con sus guiones, sin punto al final, y no deja ninguno sin formato", () => {
     const texto = todasLasPartes.map((parte) => parte.texto).join("\n");
     expect(texto.match(/CUIT:? \d{2}-\d{8}-\d/g)).toHaveLength(6);
+    expect(texto).not.toMatch(/CUIT:? \d{2}-\d{8}-\d\./);
     expect(texto).not.toMatch(/\d{11}/);
   });
 
@@ -68,7 +69,17 @@ describe("los enlaces dentro del texto", () => {
     expect(tramos("Numero de telefono: +54 9 11 3273-3848")[1]).toEqual({
       texto: "+54 9 11 3273-3848",
       href: "tel:+5491132733848",
+      entero: true,
     });
+  });
+
+  it("deja cada CUIT en una sola línea, sin enlazarlo", () => {
+    expect(tramos("Bianca Massarella Martínez, CUIT 24-42679023-7")).toEqual([
+      { texto: "Bianca Massarella Martínez, CUIT " },
+      { texto: "24-42679023-7", entero: true },
+    ]);
+    const cuits = todasLasPartes.flatMap((parte) => tramos(parte.texto).filter((tramo) => tramo.entero && !tramo.href));
+    expect(cuits).toHaveLength(6);
   });
 
   it("no cambia una sola letra del texto al partirlo", () => {

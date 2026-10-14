@@ -1,7 +1,8 @@
 """Builds src/legales/documentos.json from the studio's Word file of terms and privacy.
 
 The text goes through untouched: wording, capitals, bold and list types as the studio wrote them.
-The only edit is the CUIT format (20-38759781-7), asked for by the owner.
+The only edits, both asked for by the owner: the CUIT format (20-38759781-7), and no period after a CUIT
+that closes a line.
 
     py scripts/generar_legales.py "TÉRMINOS Y CONDICIONES DE USO Y PP.docx"
 """
@@ -17,7 +18,7 @@ W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 SALIDA = Path(__file__).resolve().parent.parent / "src" / "legales" / "documentos.json"
 DOCUMENTOS = ("terminos", "privacidad")
 CLAUSULA = re.compile(r"^(\d+)\.\s")
-CUIT = re.compile(r"(CUIT:?\s*)(\d{2})-?(\d{8})-?(\d)")
+CUIT = re.compile(r"(CUIT:?\s*)(\d{2})-?(\d{8})-?(\d)(?:\.$)?")
 DIRECCION = re.compile(r"^https?://\S+$")
 
 

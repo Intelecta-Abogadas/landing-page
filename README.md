@@ -8,7 +8,7 @@ Lo publicado en `monitordemarcas.com.ar` sale de este repo: cada push a `main` c
 |---|---|
 | `npm run dev` | La levanta en modo desarrollo (`/terminos/` y `/privacidad/` incluidas) |
 | `npm run build` | Chequea tipos y arma las tres páginas, una pasada por página |
-| `npm test` | El filtro del navegador contra el backend (681 casos) y el texto legal (10), 691 en total |
+| `npm test` | El filtro del navegador contra el backend (681 casos) y el texto legal (11), 692 en total |
 | `npm run datos` | Regenera `src/cotejo/datos.ts` y `src/cotejo/casos.json` desde `../marcas-app-backend` |
 | `npm run legales "<docx>"` | Regenera `src/legales/documentos.json` desde el Word del estudio |
 
@@ -20,12 +20,12 @@ Si el backend cambia de versión, `npm run datos` y `npm test`.
 
 ## Términos y política de privacidad
 
-El texto lo redactó el estudio y va **tal cual**: mayúsculas, acentos, negritas, listas y puntuación como vienen en el Word. La única transformación es el formato de los CUIT, que se escriben `20-38759781-7` (el número no se corrige: si el dígito verificador no cierra, se publica como vino).
+El texto lo redactó el estudio y va **tal cual**: mayúsculas, acentos, negritas, listas y puntuación como vienen en el Word. Las únicas transformaciones, pedidas por el dueño: el formato de los CUIT, que se escriben `20-38759781-7` (el número no se corrige: si el dígito verificador no cierra, se publica como vino), y sin punto después de un CUIT que cierra el renglón.
 
 - `scripts/generar_legales.py` lee el `.docx` (Título 1 abre un documento, Título 2 en negrita con «N. » abre una cláusula; lo anterior a la primera cláusula es el encabezado) y escribe `src/legales/documentos.json`. Corta con error si encuentra un formato que no sabe reproducir (cursiva, subrayado fuera de la dirección del sitio, tachado, tabulaciones o saltos de línea dentro de un párrafo), si no hay dos documentos o si las cláusulas no van de 1 a N.
 - Cuando el estudio mande una versión nueva: `npm run legales "<ruta al docx>"`, `npm test` y `npm run build`. Las pruebas fijan los títulos, la cantidad de cláusulas (27 y 21), la fecha de la última actualización y los CUIT; si el estudio cambia alguno de esos datos, se ajusta la prueba.
-- `src/legales/PaginaLegal.tsx` dibuja cada documento con la cabecera y el pie de la landing. Al leer, el índice de cláusulas marca la que cruza una línea a 120 px del borde superior; a 1100 px de ancho o menos el índice se pliega en el botón «Ver las cláusulas». Al imprimir sale sólo el texto.
-- La dirección del sitio, el correo y el teléfono se enlazan al dibujar (`tramos` en `src/legales/documentos.ts`); el texto no cambia una letra.
+- `src/legales/PaginaLegal.tsx` dibuja cada documento con la cabecera y el pie de la landing; el texto ocupa todo el ancho del marco, de margen a margen, sin índice ni columnas al costado. Al imprimir sale sólo el texto.
+- La dirección del sitio, el correo y el teléfono se enlazan al dibujar, y los CUIT y el teléfono no se cortan entre dos renglones (`tramos` en `src/legales/documentos.ts`); el texto no cambia una letra.
 - El pie de las tres páginas lleva, en una línea propia debajo, «Términos y condiciones» y «Política de privacidad» (`LEGALES` en `src/piezas.tsx`).
 
 Cada página vive en su carpeta (`terminos/index.html`, `privacidad/index.html`) y se arma en su propia pasada (`vite build --mode terminos` / `--mode privacidad`), porque `vite-plugin-singlefile` mete todo en un archivo por pasada. La de la landing vacía `dist/`; las otras dos se agregan al lado.
