@@ -14,6 +14,8 @@ import { COINCIDENCIAS, diaArgentino, nombreVisible, textoDeFalla } from "./text
 import type { Bloqueo, Busqueda, EstadoDelCupo, Pais, Registro } from "./tipos";
 
 const INICIO = "../";
+/** The app searches names of 4 letters or more (`server/publico/motor.ts`): with fewer the INPI's answer is cut. */
+const LARGO_MINIMO = 4;
 /** The allowance with the details confirmed, as the app counts it (`server/publico/cupo.ts`). */
 const CUPO_CON_DATOS = 5;
 const MESES_DE_PERMISO = 3;
@@ -132,8 +134,8 @@ export function Buscador() {
     if (etapa.tipo === "buscando") return;
     const denominacion = texto.trim();
     const letras = denominacion.replace(/[^\p{L}\p{N}]/gu, "");
-    if (letras.length < 2 || letras.length > 80) {
-      setAviso("Escribí el nombre de la marca, entre 2 y 80 letras.");
+    if (letras.length < LARGO_MINIMO || letras.length > 80) {
+      setAviso(textoDeFalla({ codigo: "denominacion_invalida", mensaje: "" }));
       entrada.current?.focus();
       return;
     }
@@ -287,7 +289,10 @@ function Zona({
       return (
         <div className="aparece consultando" role="status">
           <span className="barra-buscando" aria-hidden="true" />
-          <p>Consultando el INPI con {nombreVisible(etapa.pedido.denominacion.toUpperCase())} y las formas que suenan igual.</p>
+          <p>
+            Consultando el INPI con {nombreVisible(etapa.pedido.denominacion.toUpperCase())} y las formas que suenan igual. La primera
+            búsqueda puede tardar hasta un minuto.
+          </p>
           <div className="filas-fantasma" aria-hidden="true">
             {[0, 1, 2, 3, 4].map((i) => (
               <i key={i} />
