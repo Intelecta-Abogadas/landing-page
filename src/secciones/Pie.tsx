@@ -1,8 +1,8 @@
 import { Isotipo } from "../Isotipo";
-import { enlaceInterno, LEGALES, URL_FORMULARIO, URL_SISTEMA, type Legal } from "../piezas";
+import { BUSCADOR, enlaceInterno, LEGALES, URL_FORMULARIO, URL_SISTEMA, type Legal, type Pagina } from "../piezas";
 
-/** `inicio` is the way back to the landing; `actual` marks the legal page being read. */
-export function Pie({ inicio = "", actual }: { inicio?: string; actual?: Legal }) {
+/** `inicio` is the way back to the landing; `actual` marks the page being read. */
+export function Pie({ inicio = "", actual }: { inicio?: string; actual?: Pagina }) {
   return (
     <footer className="pie">
       <div className="marco pie-fila">
@@ -14,6 +14,9 @@ export function Pie({ inicio = "", actual }: { inicio?: string; actual?: Legal }
           </div>
         </div>
         <nav className="pie-enlaces" aria-label="Pie">
+          <a href={enlaceInterno(inicio + BUSCADOR.ruta)} aria-current={actual === "buscar" ? "page" : undefined}>
+            {BUSCADOR.nombre}
+          </a>
           <a href={enlaceInterno(`${inicio}#embudo`)}>Cómo trabaja</a>
           <a href={enlaceInterno(`${inicio}#cotejo`)}>El cotejo</a>
           <a href={enlaceInterno(`${inicio}#alerta`)}>Las alertas</a>

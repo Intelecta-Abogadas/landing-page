@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc --noEmit && vite build && vite build --mode terminos && vite build --mode privacidad",
+    "build": "tsc --noEmit && vite build && vite build --mode terminos && vite build --mode privacidad && vite build --mode buscar",
     "test": "vitest run",
     "datos": "..\\marcas-app-backend\\.venv\\Scripts\\python.exe scripts/generar_datos.py && ..\\marcas-app-backend\\.venv\\Scripts\\python.exe scripts/generar_casos.py",
     "legales": "py scripts/generar_legales.py"
