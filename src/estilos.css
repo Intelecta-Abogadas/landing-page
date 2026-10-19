@@ -2055,13 +2055,17 @@ html:has(dialog[open]) {
   transform: rotate(180deg);
 }
 
+.clases {
+  position: relative;
+}
+
 .clases-panel {
   position: absolute;
   z-index: 20;
-  top: calc(100% + 10px);
+  top: calc(100% + 8px);
   left: 0;
-  width: min(720px, 100%);
-  padding: 22px 24px 20px;
+  right: 0;
+  padding: 18px 16px 16px;
   border: 1px solid var(--linea);
   border-radius: 16px;
   background: var(--papel);
@@ -2082,7 +2086,7 @@ html:has(dialog[open]) {
 
 .clases-grilla {
   display: grid;
-  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(42px, 1fr));
   gap: 6px;
 }
 
@@ -2118,9 +2122,15 @@ html:has(dialog[open]) {
 .clases-pie {
   display: flex;
   gap: 10px;
-  margin-top: 20px;
-  padding-top: 16px;
+  margin-top: 18px;
+  padding-top: 14px;
   border-top: 1px solid var(--linea);
+}
+
+.clases-pie .btn {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 0 14px;
 }
 
 /* The allowance: one mark per search, the spent ones empty from the right. */
@@ -3135,15 +3145,6 @@ tbody:nth-of-type(5) .grupo-nombre::before {
 
   .buscador-boton {
     width: 100%;
-  }
-
-  .clases-panel {
-    width: 100%;
-    padding: 18px 16px 16px;
-  }
-
-  .clases-grilla {
-    grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 
   .cupo {

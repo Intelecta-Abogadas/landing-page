@@ -123,7 +123,7 @@ export function textoDelCupo(e: EstadoDelCupo): string {
 }
 
 const TEXTO_DE_FALLA: Record<string, string> = {
-  denominacion_invalida: "Escribí el nombre de la marca, entre 2 y 80 letras.",
+  denominacion_invalida: "Escribí el nombre de la marca, de 4 a 80 letras.",
   inpi_no_responde: "El INPI no está respondiendo ahora. Probá en unos minutos: esta búsqueda no se descuenta.",
   error: "No se pudo buscar. Probá en unos minutos: esta búsqueda no se descuenta.",
   origen_ajeno: "No se pudo buscar. Probá en unos minutos: esta búsqueda no se descuenta.",
