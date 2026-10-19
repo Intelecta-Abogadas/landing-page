@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import { fechaSinAnio, hoyArgentina, proximoMiercoles } from "../fechas";
 import { azar, limitar, quieto, salida, useEnPantalla } from "../movimiento";
-import { NIVEL, type Nivel } from "../piezas";
+import { BUSCADOR, enlaceInterno, NIVEL, type Nivel } from "../piezas";
 
 /** One dot per application: a Wednesday brings about 3,700 (June to September 2026). */
 const PUNTOS = 3700;
@@ -56,8 +56,8 @@ export function Portada() {
           <a className="btn btn-solido" href="#cotejo">
             Probar el cotejo
           </a>
-          <a className="btn btn-borde" href="#embudo">
-            Ver cómo trabaja
+          <a className="btn btn-borde" href={enlaceInterno(BUSCADOR.ruta)}>
+            Buscar una marca
           </a>
         </div>
         <p className="en-vivo entra" style={{ animationDelay: "0.85s" }}>

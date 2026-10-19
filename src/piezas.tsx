@@ -5,6 +5,11 @@ export const URL_FORMULARIO = "https://forms.gle/rbHraM9f5jZR2uQB8";
 
 export type Legal = "terminos" | "privacidad";
 
+/** The pages that live in a folder of their own next to the landing. */
+export type Pagina = Legal | "buscar";
+
+export const BUSCADOR = { ruta: "buscar/", nombre: "Buscar marcas" };
+
 export const LEGALES: Record<Legal, { ruta: string; nombre: string }> = {
   terminos: { ruta: "terminos/", nombre: "Términos y condiciones" },
   privacidad: { ruta: "privacidad/", nombre: "Política de privacidad" },

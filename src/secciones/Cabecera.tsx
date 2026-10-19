@@ -1,6 +1,6 @@
 import { useEffect, useState, type CSSProperties } from "react";
 import { Isotipo } from "../Isotipo";
-import { enlaceInterno, URL_FORMULARIO, URL_SISTEMA } from "../piezas";
+import { BUSCADOR, enlaceInterno, URL_FORMULARIO, URL_SISTEMA, type Pagina } from "../piezas";
 
 const ENLACES = [
   ["#embudo", "Cómo trabaja"],
@@ -10,8 +10,8 @@ const ENLACES = [
   ["#cartera", "La cartera"],
 ] as const;
 
-/** `inicio` is the way back to the landing: empty on it, "../" from a page in a folder. */
-export function Cabecera({ inicio = "" }: { inicio?: string }) {
+/** `inicio` is the way back to the landing: empty on it, "../" from a page in a folder; `actual` marks the page open. */
+export function Cabecera({ inicio = "", actual }: { inicio?: string; actual?: Pagina }) {
   const [avance, setAvance] = useState(0);
   useEffect(() => {
     let cuadro = 0;
@@ -45,6 +45,9 @@ export function Cabecera({ inicio = "" }: { inicio?: string }) {
           <span className="marca-nombre">Monitor de Marcas</span>
         </a>
         <nav className="menu" aria-label="Secciones">
+          <a href={enlaceInterno(inicio + BUSCADOR.ruta)} aria-current={actual === "buscar" ? "page" : undefined}>
+            {BUSCADOR.nombre}
+          </a>
           {ENLACES.map(([href, texto]) => (
             <a key={href} href={enlaceInterno(inicio + href)}>
               {texto}
