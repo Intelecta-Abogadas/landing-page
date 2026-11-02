@@ -182,8 +182,8 @@ export function Buscador() {
           <header className="buscador-cabeza">
             <h1>Buscá si tu marca ya está registrada.</h1>
             <p className="bajada">
-              Consultamos el registro del INPI en el momento y te mostramos las marcas en trámite y las concedidas que se escriben o
-              suenan como la tuya, con su clase, su titular y sus productos.
+              Consultamos el registro del INPI en el momento y te mostramos las marcas en trámite y las concedidas que se escriben,
+              suenan o dicen lo mismo que la tuya, con su clase, su titular y sus productos.
             </p>
           </header>
 
@@ -290,8 +290,8 @@ function Zona({
         <div className="aparece consultando" role="status">
           <span className="barra-buscando" aria-hidden="true" />
           <p>
-            Consultando el INPI con {nombreVisible(etapa.pedido.denominacion.toUpperCase())} y las formas que suenan igual. La primera
-            búsqueda puede tardar hasta un minuto.
+            Consultando el INPI con {nombreVisible(etapa.pedido.denominacion.toUpperCase())}, las formas que suenan igual y las palabras
+            que dicen lo mismo. La primera búsqueda puede tardar hasta un minuto.
           </p>
           <div className="filas-fantasma" aria-hidden="true">
             {[0, 1, 2, 3, 4].map((i) => (

@@ -1,5 +1,5 @@
 import { useState, type CSSProperties } from "react";
-import { COINCIDENCIAS, conY, estadoVisible, fechaDeDia, nombreVisible, textoDeClases, TIPO_MARCA, actaConPuntos } from "./textos";
+import { COINCIDENCIAS, conY, estadoVisible, fechaDeDia, nombreVisible, textoDeClases, textoDePor, TIPO_MARCA, actaConPuntos } from "./textos";
 import type { Busqueda, Registro } from "./tipos";
 
 /** TMview's image of the mark; when it does not load the cell keeps its place, empty. */
@@ -32,6 +32,8 @@ export function Resultados({ busqueda, clases, onAbrir }: { busqueda: Busqueda; 
   const nombre = nombreVisible(busqueda.denominacion);
   const grafias = busqueda.grafias.map(nombreVisible);
   const otras = grafias.filter((g) => g !== nombre);
+  const equivalentes = [...new Set((busqueda.significado ?? []).map((e) => nombreVisible(e.termino)))];
+  const conSignificado = busqueda.resultados.some((r) => r.coincidencia === "significado");
   const actas = busqueda.resultados.reduce((n, r) => n + r.registros.length, 0);
   let fila = 0;
 
@@ -47,7 +49,13 @@ export function Resultados({ busqueda, clases, onAbrir }: { busqueda: Busqueda; 
         </h2>
         <p className="resultados-alcance">
           {textoDeClases(clases)}, en trámite o concedidas.
-          {otras.length ? ` Consultamos el INPI también con ${conY(otras)}, que suenan igual.` : ""}
+          {otras.length && equivalentes.length
+            ? ` Consultamos el INPI también con ${conY(otras)}, que suenan igual, y con ${conY(equivalentes)}, que dicen lo mismo.`
+            : otras.length
+              ? ` Consultamos el INPI también con ${conY(otras)}, que suenan igual.`
+              : equivalentes.length
+                ? ` Consultamos el INPI también con ${conY(equivalentes)}, que dicen lo mismo.`
+                : ""}
         </p>
       </div>
 
@@ -91,6 +99,7 @@ export function Resultados({ busqueda, clases, onAbrir }: { busqueda: Busqueda; 
                               <button type="button" className="fila-nombre" onClick={(e) => (e.stopPropagation(), onAbrir(reg, visible))}>
                                 {visible}
                               </button>
+                              {r.por ? <span className="marca-por">{textoDePor(r.por)}</span> : null}
                               <span className="marca-movil">
                                 Clase {reg.clase ?? "-"} · {reg.titulares.map(nombreVisible).join(", ") || "Sin titular"}
                               </span>
@@ -113,6 +122,15 @@ export function Resultados({ busqueda, clases, onAbrir }: { busqueda: Busqueda; 
             })}
           </table>
         </div>
+      ) : null}
+      {conSignificado ? (
+        <p className="resultados-fuente">
+          Los sinónimos y las traducciones salen del{" "}
+          <a href="https://es.wiktionary.org/" target="_blank" rel="noopener noreferrer">
+            Wikcionario en español
+          </a>
+          , con licencia CC BY-SA 4.0.
+        </p>
       ) : null}
     </div>
   );

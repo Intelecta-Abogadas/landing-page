@@ -2466,6 +2466,31 @@ tbody:nth-of-type(5) .grupo-nombre::before {
   color: var(--suave);
 }
 
+/* Why a mark is in «Mismo significado»: the synonym or the translation it carries. */
+.marca-por {
+  grid-area: por;
+  font-size: 13.5px;
+  color: var(--suave);
+}
+
+.marca-celda:has(.marca-por) {
+  grid-template-areas:
+    "logo nombre"
+    "logo por";
+}
+
+.resultados-fuente {
+  margin-top: 16px;
+  font-size: 14px;
+  color: var(--suave);
+}
+
+.resultados-fuente a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .logo {
   display: inline-flex;
   align-items: center;
@@ -3197,6 +3222,13 @@ tbody:nth-of-type(5) .grupo-nombre::before {
   .marca-celda {
     grid-template-areas:
       "logo nombre"
+      "logo movil";
+  }
+
+  .marca-celda:has(.marca-por) {
+    grid-template-areas:
+      "logo nombre"
+      "logo por"
       "logo movil";
   }
 

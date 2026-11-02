@@ -3,7 +3,16 @@
  * together: a field added there is added here.
  */
 
-export type Coincidencia = "igual" | "suena_igual" | "muy_parecida" | "palabra" | "parecida";
+export type Coincidencia = "igual" | "suena_igual" | "muy_parecida" | "palabra" | "significado" | "parecida";
+
+/** A synonym or a translation of a word of the search, from the Spanish Wiktionary. */
+export type Equivalencia = {
+  termino: string;
+  relacion: "sinonimo" | "traduccion";
+  idioma: "en" | "pt" | "it" | "fr" | "de" | null;
+  /** The word of the search it is an equivalent of, as the person wrote it. */
+  de: string;
+};
 
 export type Registro = {
   acta: string;
@@ -23,9 +32,12 @@ export type Resultado = {
   coincidencia: Coincidencia;
   puntaje: number;
   registros: Registro[];
+  /** For «Mismo significado»: the equivalent the name carries. */
+  por?: Equivalencia;
 };
 
-export type Busqueda = { denominacion: string; grafias: string[]; resultados: Resultado[]; total: number };
+/** `significado`: the synonyms and translations the INPI was also asked for (missing before the app sends them). */
+export type Busqueda = { denominacion: string; grafias: string[]; significado?: Equivalencia[]; resultados: Resultado[]; total: number };
 
 export type EstadoDelCupo = {
   conDatos: boolean;

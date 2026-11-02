@@ -12,6 +12,8 @@ import {
   textoDeClases,
   textoDeFalla,
   textoDelCupo,
+  textoDePor,
+  COINCIDENCIAS,
 } from "./textos";
 import type { EstadoDelCupo } from "./tipos";
 
@@ -129,5 +131,18 @@ describe("a private window", () => {
     expect(await esPrivadoCon({ ...base, marca: "safari", sistemaDeArchivos: negado })).toBe(true);
     expect(await esPrivadoCon({ ...base, marca: "safari", sistemaDeArchivos: async () => ({}) })).toBe(false);
     expect(await esPrivadoCon({ ...base, marca: "otro" })).toBe(false);
+  });
+});
+
+describe("«Mismo significado»", () => {
+  it("goes after the marks that share a word and before the close ones", () => {
+    expect(COINCIDENCIAS.map((c) => c.v)).toEqual(["igual", "suena_igual", "muy_parecida", "palabra", "significado", "parecida"]);
+  });
+
+  it("says which synonym or translation each mark carries", () => {
+    expect(textoDePor({ termino: "KNIGHT", relacion: "traduccion", idioma: "en", de: "CABALLERO" })).toBe("Knight, caballero en inglés");
+    expect(textoDePor({ termino: "ÉTOILE", relacion: "traduccion", idioma: "fr", de: "ESTRELLA" })).toBe("Étoile, estrella en francés");
+    expect(textoDePor({ termino: "JINETE", relacion: "sinonimo", idioma: null, de: "CABALLERO" })).toBe("Jinete, sinónimo de caballero");
+    expect(textoDePor({ termino: "LION", relacion: "traduccion", idioma: "fr", de: "LEÓN" })).toBe("Lion, león en francés");
   });
 });
