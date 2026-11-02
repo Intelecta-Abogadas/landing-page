@@ -1,4 +1,4 @@
-import type { Coincidencia, EstadoDelCupo, Falla } from "./tipos";
+import type { Coincidencia, Equivalencia, EstadoDelCupo, Falla } from "./tipos";
 
 /** The groups of the results, from the closest, with what puts a mark in each. */
 export const COINCIDENCIAS: Array<{ v: Coincidencia; t: string; ayuda: string }> = [
@@ -6,6 +6,11 @@ export const COINCIDENCIAS: Array<{ v: Coincidencia; t: string; ayuda: string }>
   { v: "suena_igual", t: "Suenan igual", ayuda: "Escritas de otra manera, se pronuncian igual: c, s y z; b y v; k y qu; la h que no suena." },
   { v: "muy_parecida", t: "Muy parecidas", ayuda: "Se escriben o suenan casi igual." },
   { v: "palabra", t: "Comparten una palabra", ayuda: "Llevan adentro, entre otras, las palabras de la que buscaste." },
+  {
+    v: "significado",
+    t: "Mismo significado",
+    ayuda: "Dicen lo mismo con otras palabras: un sinónimo o la traducción al inglés, portugués, italiano, francés o alemán.",
+  },
   { v: "parecida", t: "Parecidas", ayuda: "Se parecen por cómo se escriben o cómo suenan, menos que las anteriores." },
 ];
 
@@ -71,6 +76,15 @@ export function estadoVisible(estado: string | null, estadoInpi: string | null):
 }
 
 /** "a", "a y b", "a, b y c". */
+const IDIOMAS: Record<string, string> = { en: "inglés", pt: "portugués", it: "italiano", fr: "francés", de: "alemán" };
+
+/** Why a mark says the same as the search: «Knight, caballero en inglés» or «Jinete, sinónimo de caballero». */
+export function textoDePor(e: Equivalencia): string {
+  const termino = nombreVisible(e.termino);
+  const de = e.de.toLocaleLowerCase("es");
+  return e.relacion === "traduccion" && e.idioma ? `${termino}, ${de} en ${IDIOMAS[e.idioma] ?? e.idioma}` : `${termino}, sinónimo de ${de}`;
+}
+
 export function conY(partes: string[]): string {
   if (partes.length <= 1) return partes.join("");
   return `${partes.slice(0, -1).join(", ")} y ${partes[partes.length - 1]}`;
